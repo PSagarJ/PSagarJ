@@ -20,8 +20,8 @@ CS undergrad (B.Tech CSE) building full-stack apps with the MERN stack and explo
 
 ## 📫 Reach me
 
-- LinkedIn: *(https://www.linkedin.com/in/sagar-patil-386a8729a/)*
-- Email: *(sagarjp369@gmail.com)*
+- LinkedIn: *https://www.linkedin.com/in/sagar-patil-386a8729a/*
+- Email: *sagarjp369@gmail.com*
 
 ---
 ⭐️ From [PSagarJ](https://github.com/PSagarJ)
