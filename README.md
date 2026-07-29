@@ -5,8 +5,8 @@ CS undergrad (B.Tech CSE) building full-stack apps with the MERN stack and explo
 ## 🔭 What I'm working on
 
 - **[Smart Traffic Management System (SUMO)](https://github.com/PSagarJ/Smart-Traffic-Management-System-Using-SUMO)** — A smart-city traffic simulation in Python + SUMO that reduces congestion and prioritizes emergency vehicles through signal control logic.
-- **[Travel Buddy Finder](https://github.com/PSagarJ/Travel-Buddy-Finder)** — *(Let you add your trip and find people with same interest and help you manage your ledger)*
-- **[Decoration Planner](https://github.com/PSagarJ/decoration_planner)** — *(Lets you decorate the event venue as per your linking so the event planner can have an idea of what you want in decoration)*
+- **[Travel Buddy Finder](https://github.com/PSagarJ/Travel-Buddy-Finder)** — Lets you add a trip, find travelers with similar interests, and manage a shared expense ledger.
+- **[Decoration Planner](https://github.com/PSagarJ/decoration_planner)** — Lets you design your event venue's decoration so planners can see exactly what you want before the event.
 - **[DSA Training](https://github.com/PSagarJ/DSA-training)** — Ongoing data structures & algorithms practice in Java.
 
 ## 🛠️ Tech Stack
@@ -20,8 +20,8 @@ CS undergrad (B.Tech CSE) building full-stack apps with the MERN stack and explo
 
 ## 📫 Reach me
 
-- LinkedIn: *https://www.linkedin.com/in/sagar-patil-386a8729a/*
-- Email: *sagarjp369@gmail.com*
+- LinkedIn: [linkedin.com/in/sagar-patil-386a8729a](https://www.linkedin.com/in/sagar-patil-386a8729a/)
+- Email: sagarjp369@gmail.com
 
 ---
 ⭐️ From [PSagarJ](https://github.com/PSagarJ)
