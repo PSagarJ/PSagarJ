@@ -25,12 +25,12 @@ CS undergrad (B.Tech CSE) building full-stack apps with the MERN stack and explo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PSagarJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSagarJ&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=PSagarJ&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PSagarJ&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PSagarJ&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com/?user=PSagarJ&theme=tokyonight&hide_border=true" />
 </p>
 
 ## 📫 Reach me
