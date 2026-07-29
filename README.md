@@ -5,8 +5,8 @@ CS undergrad (B.Tech CSE) building full-stack apps with the MERN stack and explo
 ## 🔭 What I'm working on
 
 - **[Smart Traffic Management System (SUMO)](https://github.com/PSagarJ/Smart-Traffic-Management-System-Using-SUMO)** — A smart-city traffic simulation in Python + SUMO that reduces congestion and prioritizes emergency vehicles through signal control logic.
-- **[Travel Buddy Finder](https://github.com/PSagarJ/Travel-Buddy-Finder)** — *(1-line: what does it match people on / what's the core feature?)*
-- **[Decoration Planner](https://github.com/PSagarJ/decoration_planner)** — *(1-line: what does a user do with this tool?)*
+- **[Travel Buddy Finder](https://github.com/PSagarJ/Travel-Buddy-Finder)** — *(Let you add your trip and find people with same interest and help you manage your ledger)*
+- **[Decoration Planner](https://github.com/PSagarJ/decoration_planner)** — *(Lets you decorate the event venue as per your linking so the event planner can have an idea of what you want in decoration)*
 - **[DSA Training](https://github.com/PSagarJ/DSA-training)** — Ongoing data structures & algorithms practice in Java.
 
 ## 🛠️ Tech Stack
