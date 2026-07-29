@@ -22,17 +22,6 @@ CS undergrad (B.Tech CSE) building full-stack apps with the MERN stack and explo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img height="165" src="https://github-stats-extended.vercel.app/api?username=PSagarJ&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=PSagarJ&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=PSagarJ&theme=tokyonight&hide_border=true" />
-</p>
-
 ## 📫 Reach me
 
 - LinkedIn: [linkedin.com/in/sagar-patil-386a8729a](https://www.linkedin.com/in/sagar-patil-386a8729a/)
