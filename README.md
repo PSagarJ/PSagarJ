@@ -1,4 +1,8 @@
-# Hi, I'm Sagar 👋
+<h1 align="center">Hi there, I'm Sagar 👋</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=2E97F7&center=true&vCenter=true&width=600&lines=CS+Undergrad+(B.Tech+CSE);MERN+Stack+Developer;Exploring+Applied+AI+%26+Simulation;Always+building+something+new" alt="Typing SVG" />
+</p>
 
 CS undergrad (B.Tech CSE) building full-stack apps with the MERN stack and exploring applied AI/simulation projects. I like turning real-world problems — traffic, planning, logistics — into working software.
 
@@ -18,10 +22,21 @@ CS undergrad (B.Tech CSE) building full-stack apps with the MERN stack and explo
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=PSagarJ&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PSagarJ&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PSagarJ&theme=tokyonight&hide_border=true" />
+</p>
+
 ## 📫 Reach me
 
 - LinkedIn: [linkedin.com/in/sagar-patil-386a8729a](https://www.linkedin.com/in/sagar-patil-386a8729a/)
 - Email: sagarjp369@gmail.com
 
 ---
-⭐️ From [PSagarJ](https://github.com/PSagarJ)
+<p align="center">⭐️ From <a href="https://github.com/PSagarJ">PSagarJ</a></p>
