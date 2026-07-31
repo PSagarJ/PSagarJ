@@ -69,7 +69,7 @@ while (true) {
 ---
 
 <p align="center">
-  <video src="https://github.com/user-attachments/assets/643f89ba-b605-42af-ae68-e4eef2269119" controls width="600"></video>
+  <img src="https://github.com/user-attachments/assets/8610efe0-6c40-4eb0-b2cc-22b0d9b6f10f" width="300" height="300" />
 </p>
 
 ---
