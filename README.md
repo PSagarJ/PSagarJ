@@ -5,6 +5,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=560&lines=Building+with+the+MERN+stack;Exploring+AI+%2B+simulations;Currently+debugging+traffic+(literally);Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+</p>
+
 ---
 
 ### 🧑‍💻 A little about me
