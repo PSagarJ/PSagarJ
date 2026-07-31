@@ -68,17 +68,20 @@ while (true) {
 
 ---
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/8610efe0-6c40-4eb0-b2cc-22b0d9b6f10f" width="300" height="300" />
-</p>
-
----
+<table>
+  <tr>
+    <td valign="middle" width="55%">
 
 ### 📫 Let's connect
 
-<p align="left">
-  <a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-</p>
+<a href="https://www.linkedin.com/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
-<p align="center"><i>Thanks for stopping by — feel free to star a repo or drop a suggestion 🌟</i></p>
+<i>Thanks for stopping by — feel free to star a repo or drop a suggestion 🌟</i>
+
+</td>
+<td valign="middle" width="45%" align="right">
+      <img src="https://github.com/user-attachments/assets/8610efe0-6c40-4eb0-b2cc-22b0d9b6f10f" width="300" />
+</td>
+  </tr>
+</table>
