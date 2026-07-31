@@ -6,7 +6,9 @@
 </p>
 
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+<!--QUOTE_START-->
+<i>"Stay hungry, stay foolish." — Steve Jobs</i>
+<!--QUOTE_END-->
 </p>
 
 ---
