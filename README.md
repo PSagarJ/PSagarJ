@@ -81,7 +81,7 @@ while (true) {
 
 </td>
 <td valign="middle" width="45%" align="right">
-      <img src="https://github.com/user-attachments/assets/8610efe0-6c40-4eb0-b2cc-22b0d9b6f10f" width="300" />
+      <img src="profile-video-16s.gif" width="300" />
 </td>
   </tr>
 </table>
