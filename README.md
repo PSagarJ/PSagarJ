@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Stay hungry, stay foolish." — Steve Jobs</i>
+<i>"You don't know who is important to you until you actually lose them." — Mahatma Gandhi</i>
 <!--QUOTE_END-->
 </p>
 
