@@ -68,6 +68,12 @@ while (true) {
 
 ---
 
+<p align="center">
+  <video src="https://github.com/user-attachments/assets/643f89ba-b605-42af-ae68-e4eef2269119" controls width="600"></video>
+</p>
+
+---
+
 ### 📫 Let's connect
 
 <p align="left">
