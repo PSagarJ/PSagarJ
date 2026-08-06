@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Stay hungry, stay foolish." — Steve Jobs</i>
+<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along." — Paramahansa Yogananda</i>
 <!--QUOTE_END-->
 </p>
 
