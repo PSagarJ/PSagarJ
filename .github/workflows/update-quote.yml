@@ -4,7 +4,7 @@ name: Update README Quote
 # from the Actions tab whenever you want an instant refresh.
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 */3 * * *"
   workflow_dispatch:
 
 # Only grants write access to THIS repo's contents. Nothing else.
