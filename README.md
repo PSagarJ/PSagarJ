@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Remain calm, serene, always in command of yourself. You will then find out how easy it is to get along." — Paramahansa Yogananda</i>
+<i>"Not engaging in ignorance is wisdom." — Bodhidharma</i>
 <!--QUOTE_END-->
 </p>
 
