@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Know yourself and you will win all battles." — Sun Tzu</i>
+<i>"Walk slowly but never walk backward." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
