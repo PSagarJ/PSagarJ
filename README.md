@@ -5,6 +5,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=6C63FF&center=true&vCenter=true&width=560&lines=Building+with+the+MERN+stack;Exploring+AI+%2B+simulations;Currently+debugging+traffic+(literally);Always+learning%2C+always+shipping" alt="Typing SVG" />
 </p>
 
+<p align="center">
+<!--QUOTE_START-->
+<i>"Stay hungry, stay foolish." — Steve Jobs</i>
+<!--QUOTE_END-->
+</p>
+
 ---
 
 ### 🧑‍💻 A little about me
