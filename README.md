@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Not engaging in ignorance is wisdom." — Bodhidharma</i>
+<i>"Know yourself and you will win all battles." — Sun Tzu</i>
 <!--QUOTE_END-->
 </p>
 
