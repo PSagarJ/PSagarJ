@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There are no shortcuts to any place worth going." — Beverly Sills</i>
+<i>"The less you respond to negative people, the more positive your life will become." — Paulo Coelho</i>
 <!--QUOTE_END-->
 </p>
 
