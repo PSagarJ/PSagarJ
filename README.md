@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A very little key will open a very heavy door." — Charles Dickens</i>
+<i>"The things I carry are my thoughts. That's it. They are the only weight. My thoughts determine whether I am free and light or burdened." — Kamal Ravikant</i>
 <!--QUOTE_END-->
 </p>
 
