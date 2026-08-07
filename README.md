@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Walk slowly but never walk backward." — Unknown</i>
+<i>"Your worth consists in what you are and not in what you have." — Thomas Edison</i>
 <!--QUOTE_END-->
 </p>
 
