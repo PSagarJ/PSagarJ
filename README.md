@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Your worth consists in what you are and not in what you have." — Thomas Edison</i>
+<i>"Do not go where the path may lead, go instead where there is no path and leave a trail." — Ralph Waldo Emerson</i>
 <!--QUOTE_END-->
 </p>
 
