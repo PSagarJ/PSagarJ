@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Life reflects your own thoughts back to you." — Napoleon Hill</i>
+<i>"A very little key will open a very heavy door." — Charles Dickens</i>
 <!--QUOTE_END-->
 </p>
 
