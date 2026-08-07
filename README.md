@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do not go where the path may lead, go instead where there is no path and leave a trail." — Ralph Waldo Emerson</i>
+<i>"There are no shortcuts to any place worth going." — Beverly Sills</i>
 <!--QUOTE_END-->
 </p>
 
