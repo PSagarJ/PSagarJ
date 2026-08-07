@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The less you respond to negative people, the more positive your life will become." — Paulo Coelho</i>
+<i>"Life reflects your own thoughts back to you." — Napoleon Hill</i>
 <!--QUOTE_END-->
 </p>
 
