@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Don't worry about being successful, but work toward being significant and the success will naturally follow." — Oprah Winfrey</i>
+<i>"Whatever you are, be a good one." — Abraham Lincoln</i>
 <!--QUOTE_END-->
 </p>
 
