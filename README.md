@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Man suffers only because he takes seriously what the gods made for fun." — Alan Watts</i>
+<i>"Greatness lies not in being strong, but in the right use of strength." — Henry Ward Beecher</i>
 <!--QUOTE_END-->
 </p>
 
