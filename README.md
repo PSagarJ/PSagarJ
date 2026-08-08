@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Anyone who has ever made anything of importance was disciplined." — Andrew Hendrixson</i>
+<i>"Appear weak when you are strong, and strong when you are weak." — Sun Tzu</i>
 <!--QUOTE_END-->
 </p>
 
