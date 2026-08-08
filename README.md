@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Words are clothes that thoughts wear" — Samuel Butler</i>
+<i>"Anyone who has ever made anything of importance was disciplined." — Andrew Hendrixson</i>
 <!--QUOTE_END-->
 </p>
 
