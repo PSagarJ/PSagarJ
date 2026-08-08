@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Greatness lies not in being strong, but in the right use of strength." — Henry Ward Beecher</i>
+<i>"Don't worry about being successful, but work toward being significant and the success will naturally follow." — Oprah Winfrey</i>
 <!--QUOTE_END-->
 </p>
 
