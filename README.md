@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Appear weak when you are strong, and strong when you are weak." — Sun Tzu</i>
+<i>"Man suffers only because he takes seriously what the gods made for fun." — Alan Watts</i>
 <!--QUOTE_END-->
 </p>
 
