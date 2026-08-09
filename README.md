@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night." — Margaret Mead</i>
+<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them." — Criss Jami</i>
 <!--QUOTE_END-->
 </p>
 
