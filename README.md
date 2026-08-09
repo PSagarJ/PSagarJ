@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"People who are unable to motivate themselves must be content with mediocrity, no matter how impressive their other talents." — Andrew Carnegie</i>
+<i>"Your dream has to be bigger than your fear." — Steve Harvey</i>
 <!--QUOTE_END-->
 </p>
 
