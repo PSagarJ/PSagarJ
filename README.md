@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The only thing more frustrating than slanderers is those foolish enough to listen to them." — Criss Jami</i>
+<i>"The number one cause of failure is the fear of failure." — Steve Harvey</i>
 <!--QUOTE_END-->
 </p>
 
