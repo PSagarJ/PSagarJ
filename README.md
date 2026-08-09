@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"High thoughts must have high language." — Aristophanes</i>
+<i>"Those who are possessed by nothing possess everything." — Morihei Ueshiba</i>
 <!--QUOTE_END-->
 </p>
 
