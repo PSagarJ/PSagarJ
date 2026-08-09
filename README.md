@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The number one cause of failure is the fear of failure." — Steve Harvey</i>
+<i>"Consider the rights of others before your own feelings, and the feelings of others before your own rights." — John Wooden</i>
 <!--QUOTE_END-->
 </p>
 
