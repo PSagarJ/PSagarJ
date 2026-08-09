@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Whatever you are, be a good one." — Abraham Lincoln</i>
+<i>"High thoughts must have high language." — Aristophanes</i>
 <!--QUOTE_END-->
 </p>
 
