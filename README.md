@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Those who are possessed by nothing possess everything." — Morihei Ueshiba</i>
+<i>"One of the oldest human needs is having someone to wonder where you are when you don't come home at night." — Margaret Mead</i>
 <!--QUOTE_END-->
 </p>
 
