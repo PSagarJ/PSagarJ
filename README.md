@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The best way to understanding is a few good examples." — Isaac Newton</i>
+<i>"The best way out is always through." — Robert Frost</i>
 <!--QUOTE_END-->
 </p>
 
