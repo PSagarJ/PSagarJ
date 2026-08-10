@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Your dream has to be bigger than your fear." — Steve Harvey</i>
+<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted." — Robert Collier</i>
 <!--QUOTE_END-->
 </p>
 
