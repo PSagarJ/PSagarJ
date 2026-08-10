@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Learn the rules like a pro, so you can break them like an artist." — Pablo Picasso</i>
+<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself." — Jeffrey Gitomer</i>
 <!--QUOTE_END-->
 </p>
 
