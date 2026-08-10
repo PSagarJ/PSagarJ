@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The best way out is always through." — Robert Frost</i>
+<i>"Learn the rules like a pro, so you can break them like an artist." — Pablo Picasso</i>
 <!--QUOTE_END-->
 </p>
 
