@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A diamond is a piece of charcoal that handled stress exceptionally well." — Unknown</i>
+<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself." — Tony Robbins</i>
 <!--QUOTE_END-->
 </p>
 
