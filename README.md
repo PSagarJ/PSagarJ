@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Lost Time is never found again." — Benjamin Franklin</i>
+<i>"The best way to understanding is a few good examples." — Isaac Newton</i>
 <!--QUOTE_END-->
 </p>
 
