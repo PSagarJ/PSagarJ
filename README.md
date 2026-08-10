@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"As soon as you truly commit to making something happen, the 'how' will reveal itself." — Tony Robbins</i>
+<i>"Lost Time is never found again." — Benjamin Franklin</i>
 <!--QUOTE_END-->
 </p>
 
