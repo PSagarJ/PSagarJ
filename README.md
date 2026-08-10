@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Any thought that is passed on to the subconscious often enough and convincingly enough is finally accepted." — Robert Collier</i>
+<i>"A diamond is a piece of charcoal that handled stress exceptionally well." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
