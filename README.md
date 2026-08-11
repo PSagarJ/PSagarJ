@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself." — Alexander Graham Bell</i>
+<i>"Faith means believing the unbelievable." — Gilbert Chesterton</i>
 <!--QUOTE_END-->
 </p>
 
