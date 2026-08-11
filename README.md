@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks." — Colin R. Davis</i>
+<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion." — Jack Kerouac</i>
 <!--QUOTE_END-->
 </p>
 
