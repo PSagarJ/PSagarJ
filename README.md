@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The significance of life is living." — Jiddu Krishnamurti</i>
+<i>"The biggest risk is not taking any risk. In a world that's changing quickly, the only strategy that is guaranteed to fail is not taking risks." — Colin R. Davis</i>
 <!--QUOTE_END-->
 </p>
 
