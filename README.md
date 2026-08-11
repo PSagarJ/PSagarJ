@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The search for happiness is one of the chief sources of unhappiness." — Eric Hoffer</i>
+<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life." — Eleanor Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
