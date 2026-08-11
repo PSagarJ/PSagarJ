@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Faith means believing the unbelievable." — Gilbert Chesterton</i>
+<i>"The significance of life is living." — Jiddu Krishnamurti</i>
 <!--QUOTE_END-->
 </p>
 
