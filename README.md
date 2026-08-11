@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"In order for you to be the BEST you can be for others, first you must be BEST for yourself." — Jeffrey Gitomer</i>
+<i>"The search for happiness is one of the chief sources of unhappiness." — Eric Hoffer</i>
 <!--QUOTE_END-->
 </p>
 
