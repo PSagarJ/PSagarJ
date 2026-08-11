@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Life was meant to be lived, and curiosity must be kept alive. One must never, for whatever reason, turn his back on life." — Eleanor Roosevelt</i>
+<i>"A man, as a general rule, owes very little to what he is born with - a man is what he makes of himself." — Alexander Graham Bell</i>
 <!--QUOTE_END-->
 </p>
 
