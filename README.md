@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Great things are not accomplished by those who yield to trends and fads and popular opinion." — Jack Kerouac</i>
+<i>"The best way to predict the future is to create it." — Colin R. Davis</i>
 <!--QUOTE_END-->
 </p>
 
