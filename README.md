@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Excellence is not a skill. It is an attitude." — Ralph Marston</i>
+<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream." — Les Brown</i>
 <!--QUOTE_END-->
 </p>
 
