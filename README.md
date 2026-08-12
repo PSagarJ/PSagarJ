@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Whether you think you can or think you can't – you are right." — Henry Ford</i>
+<i>"Words can only have a positive effect on others if and when they are ready to listen." — Christopher Reeve</i>
 <!--QUOTE_END-->
 </p>
 
