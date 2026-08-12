@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Words can only have a positive effect on others if and when they are ready to listen." — Christopher Reeve</i>
+<i>"Excellence is not a skill. It is an attitude." — Ralph Marston</i>
 <!--QUOTE_END-->
 </p>
 
