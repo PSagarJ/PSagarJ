@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The best way to predict the future is to create it." — Colin R. Davis</i>
+<i>"If you can handle rejection, you'll learn to get everything you want." — Tony Robbins</i>
 <!--QUOTE_END-->
 </p>
 
