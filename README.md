@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"One of the advantages of being disorganized is that one is always having surprising discoveries." — A.A. Milne</i>
+<i>"Champions keep playing until they get it right." — Billie Jean King</i>
 <!--QUOTE_END-->
 </p>
 
