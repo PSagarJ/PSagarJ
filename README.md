@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you take responsibility for yourself you will develop a hunger to accomplish your dream." — Les Brown</i>
+<i>"One of the advantages of being disorganized is that one is always having surprising discoveries." — A.A. Milne</i>
 <!--QUOTE_END-->
 </p>
 
