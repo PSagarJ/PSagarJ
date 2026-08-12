@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you can handle rejection, you'll learn to get everything you want." — Tony Robbins</i>
+<i>"Whether you think you can or think you can't – you are right." — Henry Ford</i>
 <!--QUOTE_END-->
 </p>
 
