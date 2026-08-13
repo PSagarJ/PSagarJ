@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The most important things are the hardest to say." — Stephen King</i>
+<i>"Understanding that rests in what it does not understand is the finest." — Zhuangzi</i>
 <!--QUOTE_END-->
 </p>
 
