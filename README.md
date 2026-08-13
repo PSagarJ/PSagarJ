@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Champions keep playing until they get it right." — Billie Jean King</i>
+<i>"Life is a succession of lessons, which must be lived to be understood." — Ralph Waldo Emerson</i>
 <!--QUOTE_END-->
 </p>
 
