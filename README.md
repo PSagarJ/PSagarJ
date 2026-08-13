@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The finish line is just the beginning of a whole new race." — Unknown</i>
+<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." — Eckhart Tolle</i>
 <!--QUOTE_END-->
 </p>
 
