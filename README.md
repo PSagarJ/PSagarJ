@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." — Eckhart Tolle</i>
+<i>"Death walks faster than the wind and never returns what he has taken." — Hans Christian Andersen</i>
 <!--QUOTE_END-->
 </p>
 
