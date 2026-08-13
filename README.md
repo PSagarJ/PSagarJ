@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Death walks faster than the wind and never returns what he has taken." — Hans Christian Andersen</i>
+<i>"Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work." — Steve Jobs</i>
 <!--QUOTE_END-->
 </p>
 
