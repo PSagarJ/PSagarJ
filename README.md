@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Understanding that rests in what it does not understand is the finest." — Zhuangzi</i>
+<i>"The finish line is just the beginning of a whole new race." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
