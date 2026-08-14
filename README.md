@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them." — Alexander Graham Bell</i>
+<i>"We can know only that we know nothing. And that is the highest degree of human wisdom." — Leo Tolstoy</i>
 <!--QUOTE_END-->
 </p>
 
