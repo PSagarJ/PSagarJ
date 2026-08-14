@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The less you talk about your shame, the more of it you have." — Mark Manson</i>
+<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own." — Jon Kabat-Zinn</i>
 <!--QUOTE_END-->
 </p>
 
