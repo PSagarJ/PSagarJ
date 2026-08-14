@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The harder the conflict, the greater the triumph." — George Washington</i>
+<i>"The secret of life is to fall seven times and to get up eight times." — Paulo Coelho</i>
 <!--QUOTE_END-->
 </p>
 
