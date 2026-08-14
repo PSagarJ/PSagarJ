@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you want something new, you have to stop doing something old." — Peter Drucker</i>
+<i>"A gentleman is one who puts more into the world than he takes out." — George Bernard Shaw</i>
 <!--QUOTE_END-->
 </p>
 
