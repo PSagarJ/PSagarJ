@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Whatever you like to do, make it a hobby and whatever the world likes to do, make it a business." — Warren Buffett</i>
+<i>"The harder the conflict, the greater the triumph." — George Washington</i>
 <!--QUOTE_END-->
 </p>
 
