@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We can know only that we know nothing. And that is the highest degree of human wisdom." — Leo Tolstoy</i>
+<i>"If you want something new, you have to stop doing something old." — Peter Drucker</i>
 <!--QUOTE_END-->
 </p>
 
