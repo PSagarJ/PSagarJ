@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Note that this journey is uniquely yours, no one elses. So the path has to be your own." — Jon Kabat-Zinn</i>
+<i>"Ideas do not reach perfection in a day, no matter how much study is put upon them." — Alexander Graham Bell</i>
 <!--QUOTE_END-->
 </p>
 
