@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The secret of life is to fall seven times and to get up eight times." — Paulo Coelho</i>
+<i>"The less you talk about your shame, the more of it you have." — Mark Manson</i>
 <!--QUOTE_END-->
 </p>
 
