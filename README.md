@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb</i>
+<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." — Kahlil Gibran</i>
 <!--QUOTE_END-->
 </p>
 
