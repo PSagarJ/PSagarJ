@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Reality is the leading cause of stress among those in touch with it." — Lily Tomlin</i>
+<i>"The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb</i>
 <!--QUOTE_END-->
 </p>
 
