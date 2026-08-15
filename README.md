@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The desire for more positive experience is itself a negative experience." — Mark Manson</i>
+<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime." — Lao Tzu</i>
 <!--QUOTE_END-->
 </p>
 
