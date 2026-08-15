@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Give a man a fish and you feed him for a day. Teach a man to fish and you feed him for a lifetime." — Lao Tzu</i>
+<i>"When you reach the end of your rope, tie a knot in it and hang on." — Franklin D. Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
