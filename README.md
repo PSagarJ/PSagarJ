@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The measure of wisdom is how calm you are when facing any given situation." — Naval Ravikant</i>
+<i>"Reality is the leading cause of stress among those in touch with it." — Lily Tomlin</i>
 <!--QUOTE_END-->
 </p>
 
