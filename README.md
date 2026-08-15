@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." — Kahlil Gibran</i>
+<i>"Ask no questions, and you'll be told no lies." — Charles Dickens</i>
 <!--QUOTE_END-->
 </p>
 
