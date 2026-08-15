@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"When you reach the end of your rope, tie a knot in it and hang on." — Franklin D. Roosevelt</i>
+<i>"The measure of wisdom is how calm you are when facing any given situation." — Naval Ravikant</i>
 <!--QUOTE_END-->
 </p>
 
