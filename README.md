@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A gentleman is one who puts more into the world than he takes out." — George Bernard Shaw</i>
+<i>"The desire for more positive experience is itself a negative experience." — Mark Manson</i>
 <!--QUOTE_END-->
 </p>
 
