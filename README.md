@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The ego wants comfort and certainty. The soul wants to live fully." — Maxime Lagace</i>
+<i>"You can't have anything worthwhile without difficulties." — Harry S. Truman</i>
 <!--QUOTE_END-->
 </p>
 
