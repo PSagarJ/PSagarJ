@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough." — Oprah Winfrey</i>
+<i>"There is nothing like looking if you want to find something." — J.R.R. Tolkien</i>
 <!--QUOTE_END-->
 </p>
 
