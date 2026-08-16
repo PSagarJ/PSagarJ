@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A poet should be so crafty with words that he is envied even for his pains." — Criss Jami</i>
+<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." — Socrates</i>
 <!--QUOTE_END-->
 </p>
 
