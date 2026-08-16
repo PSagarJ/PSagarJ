@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do it with passion, or not at all." — Rosa Nouchette Carey</i>
+<i>"Be thankful for what you have; you'll end up having more. If you concentrate on what you don't have, you will never, ever have enough." — Oprah Winfrey</i>
 <!--QUOTE_END-->
 </p>
 
