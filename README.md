@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You can't have anything worthwhile without difficulties." — Harry S. Truman</i>
+<i>"Do it with passion, or not at all." — Rosa Nouchette Carey</i>
 <!--QUOTE_END-->
 </p>
 
