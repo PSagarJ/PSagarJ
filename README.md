@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Ask no questions, and you'll be told no lies." — Charles Dickens</i>
+<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." — Maxime Lagace</i>
 <!--QUOTE_END-->
 </p>
 
