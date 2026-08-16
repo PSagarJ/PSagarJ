@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." — Maxime Lagace</i>
+<i>"The ego wants comfort and certainty. The soul wants to live fully." — Maxime Lagace</i>
 <!--QUOTE_END-->
 </p>
 
