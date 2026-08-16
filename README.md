@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There is nothing like looking if you want to find something." — J.R.R. Tolkien</i>
+<i>"A poet should be so crafty with words that he is envied even for his pains." — Criss Jami</i>
 <!--QUOTE_END-->
 </p>
 
