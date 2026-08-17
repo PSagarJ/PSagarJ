@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's not the men in your life that matters, it's the life in your men." — Mae West</i>
+<i>"We've got to live, no matter how many skies have fallen." — D. H. Lawrence</i>
 <!--QUOTE_END-->
 </p>
 
