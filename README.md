@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others." — Criss Jami</i>
+<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." — John Tukey</i>
 <!--QUOTE_END-->
 </p>
 
