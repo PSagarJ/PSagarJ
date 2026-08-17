@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There are two things a person should never be angry at, what they can help, and what they cannot." — Plato</i>
+<i>"It's not the men in your life that matters, it's the life in your men." — Mae West</i>
 <!--QUOTE_END-->
 </p>
 
