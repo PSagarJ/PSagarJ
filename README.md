@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Be a gift to everyone who enters your life, and to everyone whose life you enter." — Neale Donald Walsch</i>
+<i>"There are two things a person should never be angry at, what they can help, and what they cannot." — Plato</i>
 <!--QUOTE_END-->
 </p>
 
