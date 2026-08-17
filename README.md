@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"An approximate answer to the right question is worth a great deal more than a precise answer to the wrong question." — John Tukey</i>
+<i>"Be a gift to everyone who enters your life, and to everyone whose life you enter." — Neale Donald Walsch</i>
 <!--QUOTE_END-->
 </p>
 
