@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"What we call the beginning is often the end. And to make an end is to make a beginning. The end is where we start from." — T.S. Eliot</i>
+<i>"To be truly positive in the eyes of some, you have to risk appearing negative in the eyes of others." — Criss Jami</i>
 <!--QUOTE_END-->
 </p>
 
