@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Sometimes you put walls up not to keep people out, but to see who cares enough to break them down." — Socrates</i>
+<i>"Just living is not enough... one must have sunshine, freedom, and a little flower." — Hans Christian Andersen</i>
 <!--QUOTE_END-->
 </p>
 
