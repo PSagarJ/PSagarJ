@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime." — Steve Maraboli</i>
+<i>"Human beings believe just as they breathe - in order to survive." — Carlos Ruiz Zafon</i>
 <!--QUOTE_END-->
 </p>
 
