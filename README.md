@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Human beings believe just as they breathe - in order to survive." — Carlos Ruiz Zafon</i>
+<i>"I will not walk backward in life." — J.R.R. Tolkien</i>
 <!--QUOTE_END-->
 </p>
 
