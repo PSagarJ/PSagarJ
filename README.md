@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Love is the energy of life." — Robert Browning</i>
+<i>"The difference between winning and losing is most often not quitting." — Walt Disney</i>
 <!--QUOTE_END-->
 </p>
 
