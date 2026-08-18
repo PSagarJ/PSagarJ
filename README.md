@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We've got to live, no matter how many skies have fallen." — D. H. Lawrence</i>
+<i>"Peace is not the absence of conflict, but the ability to cope with it." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
