@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"I will not walk backward in life." — J.R.R. Tolkien</i>
+<i>"It's what you do in the present that will redeem the past and thereby change the future." — Paulo Coelho</i>
 <!--QUOTE_END-->
 </p>
 
