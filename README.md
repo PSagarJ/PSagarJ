@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Peace is not the absence of conflict, but the ability to cope with it." — Unknown</i>
+<i>"Love is the energy of life." — Robert Browning</i>
 <!--QUOTE_END-->
 </p>
 
