@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The difference between winning and losing is most often not quitting." — Walt Disney</i>
+<i>"It only takes a split second to smile and forget, yet to someone that needed it, it can last a lifetime." — Steve Maraboli</i>
 <!--QUOTE_END-->
 </p>
 
