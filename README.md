@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into." — Jonathan Swift</i>
+<i>"It is in changing that we find purpose." — Heraclitus</i>
 <!--QUOTE_END-->
 </p>
 
