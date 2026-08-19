@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is in changing that we find purpose." — Heraclitus</i>
+<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart." — Roy T. Bennett</i>
 <!--QUOTE_END-->
 </p>
 
