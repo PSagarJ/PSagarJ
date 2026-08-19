@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." — Alfred Adler</i>
+<i>"It is useless to attempt to reason a man out of a thing he was never reasoned into." — Jonathan Swift</i>
 <!--QUOTE_END-->
 </p>
 
