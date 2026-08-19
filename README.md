@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's your life; you don't need someone's permission to live the life you want. Be brave to live from your heart." — Roy T. Bennett</i>
+<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result." — James Allen</i>
 <!--QUOTE_END-->
 </p>
 
