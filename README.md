@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's what you do in the present that will redeem the past and thereby change the future." — Paulo Coelho</i>
+<i>"Dance first. Think later. It's the natural order." — Samuel Beckett</i>
 <!--QUOTE_END-->
 </p>
 
