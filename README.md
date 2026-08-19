@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Dance first. Think later. It's the natural order." — Samuel Beckett</i>
+<i>"Problems remain as problems because people are busy defending them rather than finding solutions." — Celestine Chua</i>
 <!--QUOTE_END-->
 </p>
 
