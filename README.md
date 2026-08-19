@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Problems remain as problems because people are busy defending them rather than finding solutions." — Celestine Chua</i>
+<i>"Meanings are not determined by situations, but we determine ourselves by the meanings we give to situations." — Alfred Adler</i>
 <!--QUOTE_END-->
 </p>
 
