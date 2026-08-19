@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"In all human affairs there are efforts, and there are results, and the strength of the effort is the measure of the result." — James Allen</i>
+<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time." — Thomas Jefferson</i>
 <!--QUOTE_END-->
 </p>
 
