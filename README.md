@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." — Kamal Ravikant</i>
+<i>"Creativity is intelligence having fun." — Albert Einstein</i>
 <!--QUOTE_END-->
 </p>
 
