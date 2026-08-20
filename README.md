@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Creativity is intelligence having fun." — Albert Einstein</i>
+<i>"If everyone is moving forward together, then success takes care of itself." — Henry Ford</i>
 <!--QUOTE_END-->
 </p>
 
