@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If everyone is moving forward together, then success takes care of itself." — Henry Ford</i>
+<i>"Do something to move yourself toward your major goal every day." — Brian Tracy</i>
 <!--QUOTE_END-->
 </p>
 
