@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do something to move yourself toward your major goal every day." — Brian Tracy</i>
+<i>"The hard path is often the right one. The river teaches more than the shore." — Maxime Lagace</i>
 <!--QUOTE_END-->
 </p>
 
