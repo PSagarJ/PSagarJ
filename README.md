@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's the little things done consistently over time, straight from your heart, that have the greatest impact." — Unknown</i>
+<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." — Kamal Ravikant</i>
 <!--QUOTE_END-->
 </p>
 
