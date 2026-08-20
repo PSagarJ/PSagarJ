@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Every day is lost in which we do not learn something useful. Man has no nobler or more valuable possession than time." — Thomas Jefferson</i>
+<i>"Good entrepreneurs don't fail because they stay at it." — Naval Ravikant</i>
 <!--QUOTE_END-->
 </p>
 
