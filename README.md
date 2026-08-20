@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Good entrepreneurs don't fail because they stay at it." — Naval Ravikant</i>
+<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have." — Norman Vincent Peale</i>
 <!--QUOTE_END-->
 </p>
 
