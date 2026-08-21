@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." — Kamal Ravikant</i>
+<i>"Muddy water is best cleared by leaving it alone." — Alan Watts</i>
 <!--QUOTE_END-->
 </p>
 
