@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Muddy water is best cleared by leaving it alone." — Alan Watts</i>
+<i>"It is far easier to start something than it is to finish it." — Amelia Earhart</i>
 <!--QUOTE_END-->
 </p>
 
