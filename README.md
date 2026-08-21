@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is far easier to start something than it is to finish it." — Amelia Earhart</i>
+<i>"There are people who have money and people who are rich." — Coco Chanel</i>
 <!--QUOTE_END-->
 </p>
 
