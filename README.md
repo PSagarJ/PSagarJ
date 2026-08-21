@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The harder you work, the harder it is to surrender." — Vince Lombardi</i>
+<i>"Big people don't make people feel small." — Robin Sharma</i>
 <!--QUOTE_END-->
 </p>
 
