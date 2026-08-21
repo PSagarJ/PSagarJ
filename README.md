@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The hard path is often the right one. The river teaches more than the shore." — Maxime Lagace</i>
+<i>"I begin with an idea and then it becomes something else." — Pablo Picasso</i>
 <!--QUOTE_END-->
 </p>
 
