@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"I begin with an idea and then it becomes something else." — Pablo Picasso</i>
+<i>"He who laughs at himself never runs out of things to laugh at." — Epictetus</i>
 <!--QUOTE_END-->
 </p>
 
