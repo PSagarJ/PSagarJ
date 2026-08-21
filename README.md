@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"He who laughs at himself never runs out of things to laugh at." — Epictetus</i>
+<i>"The harder you work, the harder it is to surrender." — Vince Lombardi</i>
 <!--QUOTE_END-->
 </p>
 
