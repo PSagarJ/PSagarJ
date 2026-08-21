@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Big people don't make people feel small." — Robin Sharma</i>
+<i>"It's easy to wish for health when you're sick.  When you're doing well, you need just as much vigilance." — Kamal Ravikant</i>
 <!--QUOTE_END-->
 </p>
 
