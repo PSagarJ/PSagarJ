@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity." — Jim Rohn</i>
+<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!" — Robert Kiyosaki</i>
 <!--QUOTE_END-->
 </p>
 
