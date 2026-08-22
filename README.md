@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There are people who have money and people who are rich." — Coco Chanel</i>
+<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future." — Steve Harvey</i>
 <!--QUOTE_END-->
 </p>
 
