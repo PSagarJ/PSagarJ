@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We ordinary people must forge our own beauty." — Kenji Miyazawa</i>
+<i>"I begin with an idea and then it becomes something else." — Pablo Picasso</i>
 <!--QUOTE_END-->
 </p>
 
