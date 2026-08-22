@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Successful people appreciate where they have come from, but they don't let their past set the tone for their future." — Steve Harvey</i>
+<i>"Life is not just the passing of time. Life is the collection of experiences and their intensity." — Jim Rohn</i>
 <!--QUOTE_END-->
 </p>
 
