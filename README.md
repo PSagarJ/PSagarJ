@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's not what you say out of your mouth that determines your life, it's what you whisper to yourself that has the most power!" — Robert Kiyosaki</i>
+<i>"We ordinary people must forge our own beauty." — Kenji Miyazawa</i>
 <!--QUOTE_END-->
 </p>
 
