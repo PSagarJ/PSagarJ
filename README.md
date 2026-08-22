@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Men go to far greater lengths to avoid what they fear than to obtain what they desire." — Dan Brown</i>
+<i>"Sometimes adversity is what you need to face in order to become successful." — Zig Ziglar</i>
 <!--QUOTE_END-->
 </p>
 
