@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play." — Alan Watts</i>
+<i>"Life is filled with secrets. You can't learn them all at once." — Dan Brown</i>
 <!--QUOTE_END-->
 </p>
 
