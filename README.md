@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Have a vision. Be demanding." — Colin Powell</i>
+<i>"You must learn to let go. Release the stress. You were never in control anyway." — Steve Maraboli</i>
 <!--QUOTE_END-->
 </p>
 
