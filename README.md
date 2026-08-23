@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy</i>
+<i>"Failure shows us the way — by showing us what isn't the way." — Ryan Holiday</i>
 <!--QUOTE_END-->
 </p>
 
