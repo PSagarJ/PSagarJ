@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The trouble with the rat race is that even if you win, you're still a rat." — Lily Tomlin</i>
+<i>"Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy</i>
 <!--QUOTE_END-->
 </p>
 
