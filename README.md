@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Sometimes adversity is what you need to face in order to become successful." — Zig Ziglar</i>
+<i>"The trouble with the rat race is that even if you win, you're still a rat." — Lily Tomlin</i>
 <!--QUOTE_END-->
 </p>
 
