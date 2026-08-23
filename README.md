@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Failure shows us the way — by showing us what isn't the way." — Ryan Holiday</i>
+<i>"Have a vision. Be demanding." — Colin Powell</i>
 <!--QUOTE_END-->
 </p>
 
