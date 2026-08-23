@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You must learn to let go. Release the stress. You were never in control anyway." — Steve Maraboli</i>
+<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play." — Alan Watts</i>
 <!--QUOTE_END-->
 </p>
 
