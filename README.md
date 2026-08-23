@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Life is filled with secrets. You can't learn them all at once." — Dan Brown</i>
+<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." — Denis Waitley</i>
 <!--QUOTE_END-->
 </p>
 
