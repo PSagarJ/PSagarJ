@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Even if you're sure you can win, be careful that you can live with what you lose." — Gary Keller</i>
+<i>"Don't hate the player. Change the game." — Steve Harvey</i>
 <!--QUOTE_END-->
 </p>
 
