@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Don't hate the player. Change the game." — Steve Harvey</i>
+<i>"There is nothing more truly artistic than to love people." — Vincent van Gogh</i>
 <!--QUOTE_END-->
 </p>
 
