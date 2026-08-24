@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"They who have conquered doubt and fear have conquered failure." — James Allen</i>
+<i>"There's no scarcity of opportunity to make a living at what you love. There is only a scarcity of resolve to make it happen." — Wayne Dyer</i>
 <!--QUOTE_END-->
 </p>
 
