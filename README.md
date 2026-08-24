@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Life is not meant to be easy my child, but take courage: it can be delightful." — George Bernard Shaw</i>
+<i>"The best way to find yourself is to lose yourself in the service of others." — Mahatma Gandhi</i>
 <!--QUOTE_END-->
 </p>
 
