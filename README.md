@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Words are clothes that thoughts wear" — Samuel Butler</i>
+<i>"Life is not meant to be easy my child, but take courage: it can be delightful." — George Bernard Shaw</i>
 <!--QUOTE_END-->
 </p>
 
