@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Mistakes are painful when they happen, but years later a collection of mistakes is what is called experience." — Denis Waitley</i>
+<i>"Even if you're sure you can win, be careful that you can live with what you lose." — Gary Keller</i>
 <!--QUOTE_END-->
 </p>
 
