@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There is nothing more truly artistic than to love people." — Vincent van Gogh</i>
+<i>"They who have conquered doubt and fear have conquered failure." — James Allen</i>
 <!--QUOTE_END-->
 </p>
 
