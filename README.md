@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The Art of Peace begins with you." — Morihei Ueshiba</i>
+<i>"A tiny change today brings a dramatically different tomorrow." — Richard Bach</i>
 <!--QUOTE_END-->
 </p>
 
