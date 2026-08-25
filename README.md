@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Judgments prevent us from seeing the good that lies beyond appearances." — Wayne Dyer</i>
+<i>"Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant</i>
 <!--QUOTE_END-->
 </p>
 
