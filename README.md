@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The best way to find yourself is to lose yourself in the service of others." — Mahatma Gandhi</i>
+<i>"Be as simple as you can be; you will be astonished to see how uncomplicated and happy your life can become." — Paramahansa Yogananda</i>
 <!--QUOTE_END-->
 </p>
 
