@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Study logic and math, because once you've mastered them, you won't fear any book." — Naval Ravikant</i>
+<i>"Learn to use your emotions to think, not think with your emotions." — Robert Kiyosaki</i>
 <!--QUOTE_END-->
 </p>
 
