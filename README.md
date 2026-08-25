@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." — Pema Chodron</i>
+<i>"The Art of Peace begins with you." — Morihei Ueshiba</i>
 <!--QUOTE_END-->
 </p>
 
