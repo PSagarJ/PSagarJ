@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"When obstacles arise, you change your direction to reach your goal; you do not change your decision to get there." — Zig Ziglar</i>
+<i>"If we learn to open our hearts, anyone, including the people who drive us crazy, can be our teacher." — Pema Chodron</i>
 <!--QUOTE_END-->
 </p>
 
