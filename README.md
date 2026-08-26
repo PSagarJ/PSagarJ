@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Keep your face to the sunshine and you cannot see the shadows." — Helen Keller</i>
+<i>"The way to change others' minds is with affection, and not anger." — Dalai Lama</i>
 <!--QUOTE_END-->
 </p>
 
