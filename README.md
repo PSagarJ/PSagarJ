@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is truth that liberates, not your effort to be free." — Jiddu Krishnamurti</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed." — Jonathan Swift</i>
 <!--QUOTE_END-->
 </p>
 
