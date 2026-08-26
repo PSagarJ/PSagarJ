@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The way to change others' minds is with affection, and not anger." — Dalai Lama</i>
+<i>"It is truth that liberates, not your effort to be free." — Jiddu Krishnamurti</i>
 <!--QUOTE_END-->
 </p>
 
