@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you correct your mind, the rest of your life will fall into place." — Lao Tzu</i>
+<i>"Learn only how to avoid seeking for and attaching yourselves to anything." — Huang Po</i>
 <!--QUOTE_END-->
 </p>
 
