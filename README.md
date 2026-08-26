@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A tiny change today brings a dramatically different tomorrow." — Richard Bach</i>
+<i>"Keep your face to the sunshine and you cannot see the shadows." — Helen Keller</i>
 <!--QUOTE_END-->
 </p>
 
