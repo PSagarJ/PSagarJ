@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Blessed is he who expects nothing, for he shall be disappointed." — Jonathan Swift</i>
+<i>"One small positive thought can change your whole day." — Zig Ziglar</i>
 <!--QUOTE_END-->
 </p>
 
