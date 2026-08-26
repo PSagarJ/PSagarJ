@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"One small positive thought can change your whole day." — Zig Ziglar</i>
+<i>"If you correct your mind, the rest of your life will fall into place." — Lao Tzu</i>
 <!--QUOTE_END-->
 </p>
 
