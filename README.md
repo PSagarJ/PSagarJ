@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts." — James Allen</i>
+<i>"It is your attitude, not your aptitude, that determines your altitude." — Zig Ziglar</i>
 <!--QUOTE_END-->
 </p>
 
