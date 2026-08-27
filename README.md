@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Learn only how to avoid seeking for and attaching yourselves to anything." — Huang Po</i>
+<i>"All that a man achieves and all that he fails to achieve is the direct result of his own thoughts." — James Allen</i>
 <!--QUOTE_END-->
 </p>
 
