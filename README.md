@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." — Winston Churchill</i>
+<i>"You may be disappointed if you fail, but you are doomed if you don't try." — Beverly Sills</i>
 <!--QUOTE_END-->
 </p>
 
