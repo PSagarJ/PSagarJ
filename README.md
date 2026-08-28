@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We are all in the gutter, but some of us are looking at the stars." — Oscar Wilde</i>
+<i>"A pessimist sees the difficulty in every opportunity; an optimist sees the opportunity in every difficulty." — Winston Churchill</i>
 <!--QUOTE_END-->
 </p>
 
