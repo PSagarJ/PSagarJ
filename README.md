@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is your attitude, not your aptitude, that determines your altitude." — Zig Ziglar</i>
+<i>"We are all in the gutter, but some of us are looking at the stars." — Oscar Wilde</i>
 <!--QUOTE_END-->
 </p>
 
