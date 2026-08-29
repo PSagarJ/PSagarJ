@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The Truth is realized in an instant; the Act is practiced step by step." — Seungsahn</i>
+<i>"Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti</i>
 <!--QUOTE_END-->
 </p>
 
