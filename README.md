@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You may be disappointed if you fail, but you are doomed if you don't try." — Beverly Sills</i>
+<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples." — Mother Teresa</i>
 <!--QUOTE_END-->
 </p>
 
