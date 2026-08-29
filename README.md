@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"I alone cannot change the world, but I can cast a stone across the waters to create many ripples." — Mother Teresa</i>
+<i>"Change begets change. Nothing propagates so fast." — Charles Dickens</i>
 <!--QUOTE_END-->
 </p>
 
