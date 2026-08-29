@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Change begets change. Nothing propagates so fast." — Charles Dickens</i>
+<i>"The Truth is realized in an instant; the Act is practiced step by step." — Seungsahn</i>
 <!--QUOTE_END-->
 </p>
 
