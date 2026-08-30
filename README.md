@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Nothing important is learned; it is simply remembered." — Carlos Ruiz Zafon</i>
+<i>"There is nothing better than the encouragement of a good friend." — David Brinkley</i>
 <!--QUOTE_END-->
 </p>
 
