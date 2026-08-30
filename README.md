@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The time is always right to do what is right." — Martin Luther King, Jr.</i>
+<i>"Elegance does not consist in putting on a new dress." — Coco Chanel</i>
 <!--QUOTE_END-->
 </p>
 
