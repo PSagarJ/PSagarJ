@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There is nothing better than the encouragement of a good friend." — David Brinkley</i>
+<i>"Whoever is happy will make others happy too." — Anne Frank</i>
 <!--QUOTE_END-->
 </p>
 
