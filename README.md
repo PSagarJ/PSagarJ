@@ -28,7 +28,7 @@
 | Project | What it does |
 |---|---|
 | 🚦 [Smart Traffic Management System](https://github.com/PSagarJ/Smart-Traffic-Management-System-Using-SUMO) | Python + SUMO simulation that eases congestion and gives emergency vehicles priority |
-| 🧳 [Travel Buddy Finder](https://github.com/PSagarJ/Travel-Buddy-Finder) | JS app for matching travelers heading the same way |
+| 🧳 [Travel Companion Finder](https://travel-companion-finder-frontend.onrender.com/) | JS app for matching travelers heading the same way |
 | 🎉 [Decoration Planner](https://github.com/PSagarJ/decoration_planner) | JS-based planning tool for event decor |
 | 📚 [DSA Training](https://github.com/PSagarJ/DSA-training) | Java grind — data structures & algorithms, reps in progress |
 
