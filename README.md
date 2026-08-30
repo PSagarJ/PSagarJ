@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti</i>
+<i>"Nothing important is learned; it is simply remembered." — Carlos Ruiz Zafon</i>
 <!--QUOTE_END-->
 </p>
 
