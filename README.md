@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life." — Roy T. Bennett</i>
+<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have." — Norman Vincent Peale</i>
 <!--QUOTE_END-->
 </p>
 
