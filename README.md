@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Work out your own salvation. Do not depend on others." — Buddha</i>
+<i>"The more you feed your mind with positive thoughts, the more you can attract great things into your life." — Roy T. Bennett</i>
 <!--QUOTE_END-->
 </p>
 
