@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Elegance does not consist in putting on a new dress." — Coco Chanel</i>
+<i>"Work out your own salvation. Do not depend on others." — Buddha</i>
 <!--QUOTE_END-->
 </p>
 
