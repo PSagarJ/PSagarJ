@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"People think about what they don't want and attract more of the same." — Unknown</i>
+<i>"The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb</i>
 <!--QUOTE_END-->
 </p>
 
