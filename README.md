@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Better than the young man's knowledge is the old man's experience." — Tibetan Proverb</i>
+<i>"People think about what they don't want and attract more of the same." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
