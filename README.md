@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There is no significance in life without struggle." — Lolly Daskal</i>
+<i>"The destiny of man is in his own soul." — Herodotus</i>
 <!--QUOTE_END-->
 </p>
 
