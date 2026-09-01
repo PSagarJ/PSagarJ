@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The destiny of man is in his own soul." — Herodotus</i>
+<i>"Better than the young man's knowledge is the old man's experience." — Tibetan Proverb</i>
 <!--QUOTE_END-->
 </p>
 
