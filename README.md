@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have." — Norman Vincent Peale</i>
+<i>"There is no significance in life without struggle." — Lolly Daskal</i>
 <!--QUOTE_END-->
 </p>
 
