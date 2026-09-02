@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti</i>
+<i>"I cannot make my days longer so I strive to make them better." — Henry David Thoreau</i>
 <!--QUOTE_END-->
 </p>
 
