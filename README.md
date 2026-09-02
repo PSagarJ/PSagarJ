@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"I cannot make my days longer so I strive to make them better." — Henry David Thoreau</i>
+<i>"You've got to get up every morning with determination if you're going to go to bed with satisfaction." — George Lorimer</i>
 <!--QUOTE_END-->
 </p>
 
