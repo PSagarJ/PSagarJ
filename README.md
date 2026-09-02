@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The best time to plant a tree was 20 years ago. The second best time is now." — Zen Proverb</i>
+<i>"Real learning comes about when the competitive spirit has ceased." — Jiddu Krishnamurti</i>
 <!--QUOTE_END-->
 </p>
 
