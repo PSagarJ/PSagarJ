@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You've got to get up every morning with determination if you're going to go to bed with satisfaction." — George Lorimer</i>
+<i>"The greatest deception men suffer is from their own opinions." — Leonardo da Vinci</i>
 <!--QUOTE_END-->
 </p>
 
