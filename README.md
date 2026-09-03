@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you cannot understand something, then you have understood it incorrectly." — Kabir</i>
+<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." — T.S. Eliot</i>
 <!--QUOTE_END-->
 </p>
 
