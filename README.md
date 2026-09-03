@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You're only given a little spark of madness. You mustn't lose it." — Robin Williams</i>
+<i>"A clear conscience never fears midnight knocking." — Chinese Proverb</i>
 <!--QUOTE_END-->
 </p>
 
