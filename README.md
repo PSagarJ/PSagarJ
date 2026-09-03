@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A clear conscience never fears midnight knocking." — Chinese Proverb</i>
+<i>"If you cannot understand something, then you have understood it incorrectly." — Kabir</i>
 <!--QUOTE_END-->
 </p>
 
