@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The greatest deception men suffer is from their own opinions." — Leonardo da Vinci</i>
+<i>"You're only given a little spark of madness. You mustn't lose it." — Robin Williams</i>
 <!--QUOTE_END-->
 </p>
 
