@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you." — T.S. Eliot</i>
+<i>"You have power over your mind - not outside events. Realize this, and you will find strength." — Marcus Aurelius</i>
 <!--QUOTE_END-->
 </p>
 
