@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"No duty is more urgent than that of returning thanks." — James Allen</i>
+<i>"True love stories never have endings." — Richard Bach</i>
 <!--QUOTE_END-->
 </p>
 
