@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You have power over your mind - not outside events. Realize this, and you will find strength." — Marcus Aurelius</i>
+<i>"The biggest adventure is what lies ahead." — J.R.R. Tolkien</i>
 <!--QUOTE_END-->
 </p>
 
