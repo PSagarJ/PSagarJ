@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Great deeds are usually wrought at great risks." — Herodotus</i>
+<i>"Help others and give something back." — Arnold Schwarzenegger</i>
 <!--QUOTE_END-->
 </p>
 
