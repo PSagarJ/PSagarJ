@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The biggest adventure is what lies ahead." — J.R.R. Tolkien</i>
+<i>"No duty is more urgent than that of returning thanks." — James Allen</i>
 <!--QUOTE_END-->
 </p>
 
