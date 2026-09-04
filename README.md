@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"True love stories never have endings." — Richard Bach</i>
+<i>"Great deeds are usually wrought at great risks." — Herodotus</i>
 <!--QUOTE_END-->
 </p>
 
