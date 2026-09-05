@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Because of your smile, you make life more beautiful." — Thich Nhat Hanh</i>
+<i>"A journey of a thousand miles begins with a single step." — Lao Tzu</i>
 <!--QUOTE_END-->
 </p>
 
