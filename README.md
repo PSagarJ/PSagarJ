@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Help others and give something back." — Arnold Schwarzenegger</i>
+<i>"Discipline is the mark of intelligent living." — Sathya Sai Baba</i>
 <!--QUOTE_END-->
 </p>
 
