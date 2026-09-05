@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Victims recite problems, leaders provide solutions." — Robin Sharma</i>
+<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow." — Orison Swett Marden</i>
 <!--QUOTE_END-->
 </p>
 
