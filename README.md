@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A journey of a thousand miles begins with a single step." — Lao Tzu</i>
+<i>"You get paid in direct proportion to the difficulty of problems you solve." — Elon Musk</i>
 <!--QUOTE_END-->
 </p>
 
