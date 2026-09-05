@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You get paid in direct proportion to the difficulty of problems you solve." — Elon Musk</i>
+<i>"Victims recite problems, leaders provide solutions." — Robin Sharma</i>
 <!--QUOTE_END-->
 </p>
 
