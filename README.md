@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Discipline is the mark of intelligent living." — Sathya Sai Baba</i>
+<i>"Because of your smile, you make life more beautiful." — Thich Nhat Hanh</i>
 <!--QUOTE_END-->
 </p>
 
