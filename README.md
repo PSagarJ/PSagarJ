@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Peace if possible, truth at all costs." — Martin Luther</i>
+<i>"Go confidently in the direction of your dreams! Live the life you've imagined." — Henry David Thoreau</i>
 <!--QUOTE_END-->
 </p>
 
