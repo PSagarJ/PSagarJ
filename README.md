@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There is no medicine like hope, no incentive so great, and no tonic so powerful as expectation of something tomorrow." — Orison Swett Marden</i>
+<i>"The friendship that can cease has never been real." — St. Jerome</i>
 <!--QUOTE_END-->
 </p>
 
