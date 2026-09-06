@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The greatest treasures are those invisible to the eye but found by the heart." — Judy Garland</i>
+<i>"Science can flourish only in an atmosphere of free speech." — Albert Einstein</i>
 <!--QUOTE_END-->
 </p>
 
