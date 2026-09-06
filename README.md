@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The friendship that can cease has never been real." — St. Jerome</i>
+<i>"Peace if possible, truth at all costs." — Martin Luther</i>
 <!--QUOTE_END-->
 </p>
 
