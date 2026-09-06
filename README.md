@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Go confidently in the direction of your dreams! Live the life you've imagined." — Henry David Thoreau</i>
+<i>"The greatest treasures are those invisible to the eye but found by the heart." — Judy Garland</i>
 <!--QUOTE_END-->
 </p>
 
