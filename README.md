@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Science can flourish only in an atmosphere of free speech." — Albert Einstein</i>
+<i>"The cost of leadership is self-interest." — Simon Sinek</i>
 <!--QUOTE_END-->
 </p>
 
