@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Things cannot forever go downward. There are limits to everything—even the cold, and the darkness, and the wind, and the dying." — Ming-Dao Deng</i>
+<i>"With self-discipline, almost anything is possible." — Theodore Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
