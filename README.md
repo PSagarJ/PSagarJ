@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"With self-discipline, almost anything is possible." — Theodore Roosevelt</i>
+<i>"It's easier to go down a hill than up it but the view is much better at the top." — Henry Ward Beecher</i>
 <!--QUOTE_END-->
 </p>
 
