@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Winners don't Quit. That's why they Win." — Unknown</i>
+<i>"Nothing good ever comes of violence." — Martin Luther</i>
 <!--QUOTE_END-->
 </p>
 
