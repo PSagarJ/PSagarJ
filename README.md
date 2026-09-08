@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable." — Walt Disney</i>
+<i>"The happiest people in the world are those who feel absolutely terrific about themselves." — Brian Tracy</i>
 <!--QUOTE_END-->
 </p>
 
