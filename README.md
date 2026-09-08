@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The happiest people in the world are those who feel absolutely terrific about themselves." — Brian Tracy</i>
+<i>"It ain't where you start in life, it's where you end up, and what you did along the way." — Colin Powell</i>
 <!--QUOTE_END-->
 </p>
 
