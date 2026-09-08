@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Nothing good ever comes of violence." — Martin Luther</i>
+<i>"When you believe in a thing, believe in it all the way, implicitly and unquestionable." — Walt Disney</i>
 <!--QUOTE_END-->
 </p>
 
