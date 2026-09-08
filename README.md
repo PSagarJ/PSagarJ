@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's easier to go down a hill than up it but the view is much better at the top." — Henry Ward Beecher</i>
+<i>"Winners don't Quit. That's why they Win." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
