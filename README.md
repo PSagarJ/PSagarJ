@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You drown not by falling into a river, but by staying submerged in it." — Paulo Coelho</i>
+<i>"The smallest of actions is always better than the noblest of intentions." — Robin Sharma</i>
 <!--QUOTE_END-->
 </p>
 
