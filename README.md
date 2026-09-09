@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The difference between ordinary and extraordinary is that little extra." — Colin R. Davis</i>
+<i>"You drown not by falling into a river, but by staying submerged in it." — Paulo Coelho</i>
 <!--QUOTE_END-->
 </p>
 
