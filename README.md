@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The goal of an artist is to create the definitive work that cannot be surpassed." — George Bernard Shaw</i>
+<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." — Pema Chodron</i>
 <!--QUOTE_END-->
 </p>
 
