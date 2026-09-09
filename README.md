@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"To live fully is to be always in no-man's-land, to experience each moment as completely new and fresh." — Pema Chodron</i>
+<i>"The difference between ordinary and extraordinary is that little extra." — Colin R. Davis</i>
 <!--QUOTE_END-->
 </p>
 
