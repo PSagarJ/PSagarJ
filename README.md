@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you spend too much time thinking about a thing, you'll never get it done." — Bruce Lee</i>
+<i>"A dead thing can go with the stream, but only a living thing can go against it." — Gilbert Chesterton</i>
 <!--QUOTE_END-->
 </p>
 
