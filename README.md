@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The smallest of actions is always better than the noblest of intentions." — Robin Sharma</i>
+<i>"Not everything that weighs you down is yours to carry." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
