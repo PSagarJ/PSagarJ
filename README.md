@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Not everything that weighs you down is yours to carry." — Unknown</i>
+<i>"The future doesn't belong to the faint-hearted; it belongs to the brave." — Ronald Reagan</i>
 <!--QUOTE_END-->
 </p>
 
