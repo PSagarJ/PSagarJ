@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The future doesn't belong to the faint-hearted; it belongs to the brave." — Ronald Reagan</i>
+<i>"If you spend too much time thinking about a thing, you'll never get it done." — Bruce Lee</i>
 <!--QUOTE_END-->
 </p>
 
