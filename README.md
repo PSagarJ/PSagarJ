@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A dead thing can go with the stream, but only a living thing can go against it." — Gilbert Chesterton</i>
+<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose." — Dan Brown</i>
 <!--QUOTE_END-->
 </p>
 
