@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The truly rich men are the ones who have health, loved ones and a work they love." — Maxime Lagace</i>
+<i>"Man must use what he has, not hope for what is not." — G.I. Gurdjieff</i>
 <!--QUOTE_END-->
 </p>
 
