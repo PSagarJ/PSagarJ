@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Nothing is more creative...nor destructive...than a brilliant mind with a purpose." — Dan Brown</i>
+<i>"Act the way you want to be and soon you'll be the way you act." — Les Brown</i>
 <!--QUOTE_END-->
 </p>
 
