@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Man must use what he has, not hope for what is not." — G.I. Gurdjieff</i>
+<i>"At first dreams seem impossible, then improbable, then inevitable." — Christopher Reeve</i>
 <!--QUOTE_END-->
 </p>
 
