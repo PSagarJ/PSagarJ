@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Act the way you want to be and soon you'll be the way you act." — Les Brown</i>
+<i>"The truly rich men are the ones who have health, loved ones and a work they love." — Maxime Lagace</i>
 <!--QUOTE_END-->
 </p>
 
