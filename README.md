@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"At first dreams seem impossible, then improbable, then inevitable." — Christopher Reeve</i>
+<i>"The power of man has grown in every sphere, except over himself." — Winston Churchill</i>
 <!--QUOTE_END-->
 </p>
 
