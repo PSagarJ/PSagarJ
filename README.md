@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The power of man has grown in every sphere, except over himself." — Winston Churchill</i>
+<i>"One never does wrong by doing right." — Norman Vincent Peale</i>
 <!--QUOTE_END-->
 </p>
 
