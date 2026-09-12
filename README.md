@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"I am thankful to all those who said no. It's because of them, I did it myself." — Wayne Dyer</i>
+<i>"Every day passes whether you participate or not." — Ming-Dao Deng</i>
 <!--QUOTE_END-->
 </p>
 
