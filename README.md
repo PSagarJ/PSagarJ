@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"When you are tempted to give up, your breakthrough is probably just around the corner." — Joyce Meyer</i>
+<i>"I am thankful to all those who said no. It's because of them, I did it myself." — Wayne Dyer</i>
 <!--QUOTE_END-->
 </p>
 
