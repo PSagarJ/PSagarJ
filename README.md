@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"One never does wrong by doing right." — Norman Vincent Peale</i>
+<i>"When you are tempted to give up, your breakthrough is probably just around the corner." — Joyce Meyer</i>
 <!--QUOTE_END-->
 </p>
 
