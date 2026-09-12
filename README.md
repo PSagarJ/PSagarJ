@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Every day passes whether you participate or not." — Ming-Dao Deng</i>
+<i>"Blessed is he who expects nothing, for he shall be disappointed." — Jonathan Swift</i>
 <!--QUOTE_END-->
 </p>
 
