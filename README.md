@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." — Sun Tzu</i>
+<i>"Happiness is an effect of doing what you love, not an end goal to be achieved." — Celestine Chua</i>
 <!--QUOTE_END-->
 </p>
 
