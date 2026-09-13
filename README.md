@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Blessed is he who expects nothing, for he shall be disappointed." — Jonathan Swift</i>
+<i>"Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder</i>
 <!--QUOTE_END-->
 </p>
 
