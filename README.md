@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Success is built sequentially. It's one thing at a time." — Gary Keller</i>
+<i>"Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi</i>
 <!--QUOTE_END-->
 </p>
 
