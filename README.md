@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Live as if you were to die tomorrow. Learn as if you were to live forever." — Mahatma Gandhi</i>
+<i>"Strategy without tactics is the slowest route to victory. Tactics without strategy is the noise before defeat." — Sun Tzu</i>
 <!--QUOTE_END-->
 </p>
 
