@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Anyone who wants to achieve a dream must stay strong, focused and steady." — Estee Lauder</i>
+<i>"Success is built sequentially. It's one thing at a time." — Gary Keller</i>
 <!--QUOTE_END-->
 </p>
 
