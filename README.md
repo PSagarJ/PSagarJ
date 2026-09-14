@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Creative endeavors are by their nature uncertain." — Robert Greene</i>
+<i>"Your setback is just a setup for a comeback." — Steve Harvey</i>
 <!--QUOTE_END-->
 </p>
 
