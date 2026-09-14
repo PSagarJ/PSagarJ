@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Happiness is an effect of doing what you love, not an end goal to be achieved." — Celestine Chua</i>
+<i>"Creative endeavors are by their nature uncertain." — Robert Greene</i>
 <!--QUOTE_END-->
 </p>
 
