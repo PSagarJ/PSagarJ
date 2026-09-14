@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You have power over your mind - not outside events. Realize this, and you will find strength." — Marcus Aurelius</i>
+<i>"You don't have to be great to start, but you have to start to be great." — Zig Ziglar</i>
 <!--QUOTE_END-->
 </p>
 
