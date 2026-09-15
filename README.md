@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You don't have to be great to start, but you have to start to be great." — Zig Ziglar</i>
+<i>"Don't be pushed by your problems; be led by your dreams." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
