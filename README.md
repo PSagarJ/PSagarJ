@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Don't be pushed by your problems; be led by your dreams." — Unknown</i>
+<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it." — Napoleon Hill</i>
 <!--QUOTE_END-->
 </p>
 
