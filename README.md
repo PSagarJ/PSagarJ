@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Success is good at any age, but the sooner you find it, the longer you will enjoy it." — Napoleon Hill</i>
+<i>"Let us always meet each other with smile, for the smile is the beginning of love." — Mother Teresa</i>
 <!--QUOTE_END-->
 </p>
 
