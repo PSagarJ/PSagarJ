@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Let us always meet each other with smile, for the smile is the beginning of love." — Mother Teresa</i>
+<i>"Many of life's failures are people who did not realize how close they were to success when they gave up." — Thomas Edison</i>
 <!--QUOTE_END-->
 </p>
 
