@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Many of life's failures are people who did not realize how close they were to success when they gave up." — Thomas Edison</i>
+<i>"Maybe you are searching among the branches, for what only appears in the roots." — Rumi</i>
 <!--QUOTE_END-->
 </p>
 
