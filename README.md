@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"No man is free who is not master of himself." — Epictetus</i>
+<i>"Pain results from a judgment you have made about a thing. Remove the judgment and the pain disappears." — Neale Donald Walsch</i>
 <!--QUOTE_END-->
 </p>
 
