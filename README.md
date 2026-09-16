@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Pain results from a judgment you have made about a thing. Remove the judgment and the pain disappears." — Neale Donald Walsch</i>
+<i>"We suffer more often in imagination than in reality." — Seneca</i>
 <!--QUOTE_END-->
 </p>
 
