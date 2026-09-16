@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win." — Arnold Schwarzenegger</i>
+<i>"You can start changing our world for the better daily, no matter how small the action." — Nelson Mandela</i>
 <!--QUOTE_END-->
 </p>
 
