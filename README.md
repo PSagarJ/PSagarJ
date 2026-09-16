@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We suffer more often in imagination than in reality." — Seneca</i>
+<i>"You were born to win, but to be a winner, you must plan to win, prepare to win, expect to win." — Arnold Schwarzenegger</i>
 <!--QUOTE_END-->
 </p>
 
