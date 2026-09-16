@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Maybe you are searching among the branches, for what only appears in the roots." — Rumi</i>
+<i>"No man is free who is not master of himself." — Epictetus</i>
 <!--QUOTE_END-->
 </p>
 
