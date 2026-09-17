@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"So we beat on, boats against the current, borne back ceaselessly into the past." — F. Scott Fitzgerald</i>
+<i>"When you stop questioning, you stop learning." — Lolly Daskal</i>
 <!--QUOTE_END-->
 </p>
 
