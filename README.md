@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It takes real work to grasp what is invisible to just about everyone else." — Ryan Holiday</i>
+<i>"So we beat on, boats against the current, borne back ceaselessly into the past." — F. Scott Fitzgerald</i>
 <!--QUOTE_END-->
 </p>
 
