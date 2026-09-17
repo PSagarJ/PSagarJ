@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You can start changing our world for the better daily, no matter how small the action." — Nelson Mandela</i>
+<i>"It takes real work to grasp what is invisible to just about everyone else." — Ryan Holiday</i>
 <!--QUOTE_END-->
 </p>
 
