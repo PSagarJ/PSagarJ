@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"When you stop questioning, you stop learning." — Lolly Daskal</i>
+<i>"A clear conscience is the sure sign of a bad memory." — Mark Twain</i>
 <!--QUOTE_END-->
 </p>
 
