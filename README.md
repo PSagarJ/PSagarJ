@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is amazing what you can accomplish if you do not care who gets the credit." — Harry S. Truman</i>
+<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present." — George Bernard Shaw</i>
 <!--QUOTE_END-->
 </p>
 
