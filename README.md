@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A clear conscience is the sure sign of a bad memory." — Mark Twain</i>
+<i>"Opportunities multiply as they are seized." — Sun Tzu</i>
 <!--QUOTE_END-->
 </p>
 
