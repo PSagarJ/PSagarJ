@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Give more than you think you can, trusting that you are richer than you think." — Jon Kabat-Zinn</i>
+<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
