@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Yesterday is the past, tomorrow is the future, today is a gift - that's why it's called the present." — George Bernard Shaw</i>
+<i>"Give more than you think you can, trusting that you are richer than you think." — Jon Kabat-Zinn</i>
 <!--QUOTE_END-->
 </p>
 
