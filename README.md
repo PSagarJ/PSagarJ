@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Opportunities multiply as they are seized." — Sun Tzu</i>
+<i>"It is amazing what you can accomplish if you do not care who gets the credit." — Harry S. Truman</i>
 <!--QUOTE_END-->
 </p>
 
