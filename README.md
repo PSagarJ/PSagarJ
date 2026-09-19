@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There's a very deep connection among human beings. All we have to do is open our minds to it." — Yanni</i>
+<i>"The key to success is action." — Brian Tracy</i>
 <!--QUOTE_END-->
 </p>
 
