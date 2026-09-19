@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The key to success is action." — Brian Tracy</i>
+<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." — Spencer Johnson</i>
 <!--QUOTE_END-->
 </p>
 
