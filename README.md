@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"In a world that is constantly changing, it is to our advantage to learn how to adapt and enjoy something better." — Spencer Johnson</i>
+<i>"The fewer the words, the better the prayer." — Martin Luther</i>
 <!--QUOTE_END-->
 </p>
 
