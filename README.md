@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you put yourself in a position where you have to stretch outside your comfort zone, then you are forced to expand your consciousness." — Unknown</i>
+<i>"There's a very deep connection among human beings. All we have to do is open our minds to it." — Yanni</i>
 <!--QUOTE_END-->
 </p>
 
