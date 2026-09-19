@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The fewer the words, the better the prayer." — Martin Luther</i>
+<i>"You can easily judge the character of a man by how he treats those who can do nothing for him." — Johann Wolfgang von Goethe</i>
 <!--QUOTE_END-->
 </p>
 
