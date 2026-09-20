@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge." — Eckhart Tolle</i>
+<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work." — Colin Powell</i>
 <!--QUOTE_END-->
 </p>
 
