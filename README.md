@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A dream doesn't become reality through magic it takes sweat, determination and hard work." — Colin Powell</i>
+<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?" — Virginia Woolf</i>
 <!--QUOTE_END-->
 </p>
 
