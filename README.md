@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"When you consider things like the stars, our affairs don't seem to matter very much, do they?" — Virginia Woolf</i>
+<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along." — Celestine Chua</i>
 <!--QUOTE_END-->
 </p>
 
