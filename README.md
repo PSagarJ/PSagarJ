@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Many answers to what you seek don't lie 'out there'. If you look inwards, you'll find the answer has been in you all along." — Celestine Chua</i>
+<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective." — Jack Butcher</i>
 <!--QUOTE_END-->
 </p>
 
