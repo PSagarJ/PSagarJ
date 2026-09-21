@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Anyone telling you it's pointless to share your perspective is sharing their perspective." — Jack Butcher</i>
+<i>"You can't go forward and backwards at the same time." — Steve Harvey</i>
 <!--QUOTE_END-->
 </p>
 
