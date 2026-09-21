@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You can't go forward and backwards at the same time." — Steve Harvey</i>
+<i>"When asked, how do you write? I invariably answer, one word at a time." — Stephen King</i>
 <!--QUOTE_END-->
 </p>
 
