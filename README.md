@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"When asked, how do you write? I invariably answer, one word at a time." — Stephen King</i>
+<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." — Benjamin Franklin</i>
 <!--QUOTE_END-->
 </p>
 
