@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves." — Brian Tracy</i>
+<i>"If you change the way you look at things, the things you look at change." — Wayne Dyer</i>
 <!--QUOTE_END-->
 </p>
 
