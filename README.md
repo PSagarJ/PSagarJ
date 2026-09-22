@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Life begins at the end of our comfort zone." — Neale Donald Walsch</i>
+<i>"The biggest mistake we could ever make in our lives is to think we work for anybody but ourselves." — Brian Tracy</i>
 <!--QUOTE_END-->
 </p>
 
