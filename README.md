@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability." — Henry Ford</i>
+<i>"A different result requires doing something different." — Gary Keller</i>
 <!--QUOTE_END-->
 </p>
 
