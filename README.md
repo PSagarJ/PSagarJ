@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you change the way you look at things, the things you look at change." — Wayne Dyer</i>
+<i>"The only real security that a man can have in this world is a reserve of knowledge, experience and ability." — Henry Ford</i>
 <!--QUOTE_END-->
 </p>
 
