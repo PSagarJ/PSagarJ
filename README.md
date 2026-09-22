@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do not anticipate trouble, or worry about what may never happen. Keep in the sunlight." — Benjamin Franklin</i>
+<i>"Life begins at the end of our comfort zone." — Neale Donald Walsch</i>
 <!--QUOTE_END-->
 </p>
 
