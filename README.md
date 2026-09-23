@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Preoccupied with a single leaf you won't see the tree." — Unknown</i>
+<i>"We must be free not because we claim freedom, but because we practice it." — William Faulkner</i>
 <!--QUOTE_END-->
 </p>
 
