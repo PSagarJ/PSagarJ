@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We must be free not because we claim freedom, but because we practice it." — William Faulkner</i>
+<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old." — Franz Kafka</i>
 <!--QUOTE_END-->
 </p>
 
