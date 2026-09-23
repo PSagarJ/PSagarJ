@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you." — Thomas Jefferson</i>
+<i>"Preoccupied with a single leaf you won't see the tree." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
