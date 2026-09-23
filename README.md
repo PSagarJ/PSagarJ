@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A different result requires doing something different." — Gary Keller</i>
+<i>"Do you want to know who you are? Don't ask. Act! Action will delineate and define you." — Thomas Jefferson</i>
 <!--QUOTE_END-->
 </p>
 
