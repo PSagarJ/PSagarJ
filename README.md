@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Talk to someone about themselves and they'll listen for hours." — Dale Carnegie</i>
+<i>"The harder you work, the harder it is to surrender." — Vince Lombardi</i>
 <!--QUOTE_END-->
 </p>
 
