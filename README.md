@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Youth is happy because it has the ability to see beauty. Anyone who keeps the ability to see beauty never grows old." — Franz Kafka</i>
+<i>"Talk to someone about themselves and they'll listen for hours." — Dale Carnegie</i>
 <!--QUOTE_END-->
 </p>
 
