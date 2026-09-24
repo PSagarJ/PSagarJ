@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." — Dale Carnegie</i>
+<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit." — Les Brown</i>
 <!--QUOTE_END-->
 </p>
 
