@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The harder you work, the harder it is to surrender." — Vince Lombardi</i>
+<i>"Develop success from failures. Discouragement and failure are two of the surest stepping stones to success." — Dale Carnegie</i>
 <!--QUOTE_END-->
 </p>
 
