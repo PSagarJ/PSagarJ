@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"When you can't make them see the light, make them feel the heat." — Ronald Reagan</i>
+<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work." — Estee Lauder</i>
 <!--QUOTE_END-->
 </p>
 
