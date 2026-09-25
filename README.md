@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Never say never, because limits, like fears, are often just an illusion." — Michael Jordan</i>
+<i>"When you can't make them see the light, make them feel the heat." — Ronald Reagan</i>
 <!--QUOTE_END-->
 </p>
 
