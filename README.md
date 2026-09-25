@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Most people fail in life not because they aim too high and miss, but because they aim too low and hit." — Les Brown</i>
+<i>"The fastest way to change is to laugh at your own folly." — Spencer Johnson</i>
 <!--QUOTE_END-->
 </p>
 
