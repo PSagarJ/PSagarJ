@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The fastest way to change is to laugh at your own folly." — Spencer Johnson</i>
+<i>"Never say never, because limits, like fears, are often just an illusion." — Michael Jordan</i>
 <!--QUOTE_END-->
 </p>
 
