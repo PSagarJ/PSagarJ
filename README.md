@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." — Kahlil Gibran</i>
+<i>"It is far easier to start something than it is to finish it." — Amelia Earhart</i>
 <!--QUOTE_END-->
 </p>
 
