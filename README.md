@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest." — Seungsahn</i>
+<i>"Tenderness and kindness are not signs of weakness and despair, but manifestations of strength and resolution." — Kahlil Gibran</i>
 <!--QUOTE_END-->
 </p>
 
