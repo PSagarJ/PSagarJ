@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"First comes the shy wish. Then you must have the heart to have the dream. Then, you work, and work." — Estee Lauder</i>
+<i>"An intelligent person hires people who are more intelligent than he is." — Robert Kiyosaki</i>
 <!--QUOTE_END-->
 </p>
 
