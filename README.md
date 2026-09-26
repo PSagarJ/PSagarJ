@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"An intelligent person hires people who are more intelligent than he is." — Robert Kiyosaki</i>
+<i>"If you throw away all thoughts of attainment, you will then come to see the real purpose of your quest." — Seungsahn</i>
 <!--QUOTE_END-->
 </p>
 
