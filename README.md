@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is far easier to start something than it is to finish it." — Amelia Earhart</i>
+<i>"Get busy living, or get busy dying." — Stephen King</i>
 <!--QUOTE_END-->
 </p>
 
