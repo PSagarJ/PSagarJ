@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"May you live all the days of your life." — Jonathan Swift</i>
+<i>"Change is never easy, but always possible." — Barack Obama</i>
 <!--QUOTE_END-->
 </p>
 
