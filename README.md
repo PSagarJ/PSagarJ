@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." — Buddha</i>
+<i>"May you live all the days of your life." — Jonathan Swift</i>
 <!--QUOTE_END-->
 </p>
 
