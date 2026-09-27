@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Get busy living, or get busy dying." — Stephen King</i>
+<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." — Buddha</i>
 <!--QUOTE_END-->
 </p>
 
