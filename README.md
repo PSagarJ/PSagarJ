@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Scared people want comfort and certainty so they avoid failure. People living fully seek challenges because this is where they feel alive." — Maxime Lagace</i>
+<i>"You are free, and that is why you are lost." — Franz Kafka</i>
 <!--QUOTE_END-->
 </p>
 
