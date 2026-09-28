@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You are free, and that is why you are lost." — Franz Kafka</i>
+<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich." — Carlos Ruiz Zafon</i>
 <!--QUOTE_END-->
 </p>
 
