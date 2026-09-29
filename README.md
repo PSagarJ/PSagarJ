@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The most efficient way of rendering the poor harmless is to teach them to want to imitate the rich." — Carlos Ruiz Zafon</i>
+<i>"To be prepared is half the victory." — Miguel de Cervantes</i>
 <!--QUOTE_END-->
 </p>
 
