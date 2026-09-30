@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Peace if possible, truth at all costs." — Martin Luther</i>
+<i>"A loving heart is the truest wisdom." — Charles Dickens</i>
 <!--QUOTE_END-->
 </p>
 
