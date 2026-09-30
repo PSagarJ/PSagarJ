@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"To be prepared is half the victory." — Miguel de Cervantes</i>
+<i>"If you've made a mistake, it's better just to laugh at it." — Zen Proverb</i>
 <!--QUOTE_END-->
 </p>
 
