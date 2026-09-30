@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you've made a mistake, it's better just to laugh at it." — Zen Proverb</i>
+<i>"Peace if possible, truth at all costs." — Martin Luther</i>
 <!--QUOTE_END-->
 </p>
 
