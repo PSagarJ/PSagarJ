@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A loving heart is the truest wisdom." — Charles Dickens</i>
+<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives." — Betty White</i>
 <!--QUOTE_END-->
 </p>
 
