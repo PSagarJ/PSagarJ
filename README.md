@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Don't take yourself too seriously, pretty soon you can find the humor in our everyday lives." — Betty White</i>
+<i>"As you think, you travel, and as you love, you attract." — James Allen</i>
 <!--QUOTE_END-->
 </p>
 
