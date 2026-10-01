@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Have the fearless attitude of a hero and the loving heart of a child." — Soyen Shaku</i>
+<i>"Your only limitations are those you set up in your mind or permit others to set up for you." — Og Mandino</i>
 <!--QUOTE_END-->
 </p>
 
