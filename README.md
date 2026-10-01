@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"As you think, you travel, and as you love, you attract." — James Allen</i>
+<i>"Have the fearless attitude of a hero and the loving heart of a child." — Soyen Shaku</i>
 <!--QUOTE_END-->
 </p>
 
