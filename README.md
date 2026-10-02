@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you can't argue both sides, you can't argue." — Jack Butcher</i>
+<i>"The less you respond to negative people, the more positive your life will become." — Paulo Coelho</i>
 <!--QUOTE_END-->
 </p>
 
