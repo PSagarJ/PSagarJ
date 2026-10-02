@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A man is literally what he thinks." — James Allen</i>
+<i>"If you can't argue both sides, you can't argue." — Jack Butcher</i>
 <!--QUOTE_END-->
 </p>
 
