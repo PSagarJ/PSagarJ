@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The prettiest eyes have cried the most." — Unknown</i>
+<i>"It always seems impossible until it's done." — Nelson Mandela</i>
 <!--QUOTE_END-->
 </p>
 
