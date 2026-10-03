@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Admire as much as you can. Most people do not admire enough." — Vincent van Gogh</i>
+<i>"You are the only real obstacle in your path to a fulfilling life." — Les Brown</i>
 <!--QUOTE_END-->
 </p>
 
