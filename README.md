@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You are the only real obstacle in your path to a fulfilling life." — Les Brown</i>
+<i>"The prettiest eyes have cried the most." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
