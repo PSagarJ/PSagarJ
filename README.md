@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It always seems impossible until it's done." — Nelson Mandela</i>
+<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously." — Naval Ravikant</i>
 <!--QUOTE_END-->
 </p>
 
