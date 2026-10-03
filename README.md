@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The less you respond to negative people, the more positive your life will become." — Paulo Coelho</i>
+<i>"Admire as much as you can. Most people do not admire enough." — Vincent van Gogh</i>
 <!--QUOTE_END-->
 </p>
 
