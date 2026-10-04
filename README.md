@@ -39,7 +39,7 @@
 ### 🛠️ Tech I reach for
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,python,git,vscode" />
+  <img src="https://skillicons.dev/icons?i=java,js,react,nodejs,express,mongodb,python,git,vscode,vercel,render" />
 </p>
 
 ---
