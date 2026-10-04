@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Because of your smile, you make life more beautiful." — Thich Nhat Hanh</i>
+<i>"We make a living by what we get, but we make a life by what we give." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
