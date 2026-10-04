@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Nothing you do is going to matter that much in the long run. Don't take yourself so seriously." — Naval Ravikant</i>
+<i>"Never give up work. Work gives you meaning and purpose and life is empty without it." — Stephen Hawking</i>
 <!--QUOTE_END-->
 </p>
 
