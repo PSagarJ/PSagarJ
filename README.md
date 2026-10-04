@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Life should be touched, not strangled." — Ray Bradbury</i>
+<i>"Trust thyself: every heart vibrates to that iron string." — Ralph Waldo Emerson</i>
 <!--QUOTE_END-->
 </p>
 
