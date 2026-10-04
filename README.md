@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We make a living by what we get, but we make a life by what we give." — Unknown</i>
+<i>"Life should be touched, not strangled." — Ray Bradbury</i>
 <!--QUOTE_END-->
 </p>
 
