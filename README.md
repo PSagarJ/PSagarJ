@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Never give up work. Work gives you meaning and purpose and life is empty without it." — Stephen Hawking</i>
+<i>"Because of your smile, you make life more beautiful." — Thich Nhat Hanh</i>
 <!--QUOTE_END-->
 </p>
 
