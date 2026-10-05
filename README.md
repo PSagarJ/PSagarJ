@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Trust thyself: every heart vibrates to that iron string." — Ralph Waldo Emerson</i>
+<i>"Be not afraid of growing slowly, be afraid only of standing still." — Chinese Proverb</i>
 <!--QUOTE_END-->
 </p>
 
