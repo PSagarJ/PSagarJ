@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Be not afraid of growing slowly, be afraid only of standing still." — Chinese Proverb</i>
+<i>"The highest level of wisdom is when you not only accept but love adversity." — Maxime Lagace</i>
 <!--QUOTE_END-->
 </p>
 
