@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The highest level of wisdom is when you not only accept but love adversity." — Maxime Lagace</i>
+<i>"People who have goals succeed because they know where they're going. It's that simple." — Earl Nightingale</i>
 <!--QUOTE_END-->
 </p>
 
