@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"People who have goals succeed because they know where they're going. It's that simple." — Earl Nightingale</i>
+<i>"Don't blame others. it won't make you a better person." — Lolly Daskal</i>
 <!--QUOTE_END-->
 </p>
 
