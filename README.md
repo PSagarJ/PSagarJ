@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Don't blame others. it won't make you a better person." — Lolly Daskal</i>
+<i>"This is the real secret of life - to be completely engaged with what you are doing in the here and now. And instead of calling it work, realize it is play." — Alan Watts</i>
 <!--QUOTE_END-->
 </p>
 
