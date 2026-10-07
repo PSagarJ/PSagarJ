@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." — Unknown</i>
+<i>"The older you get the stronger the wind gets - and it's always in your face." — Pablo Picasso</i>
 <!--QUOTE_END-->
 </p>
 
