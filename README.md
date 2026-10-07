@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The older you get the stronger the wind gets - and it's always in your face." — Pablo Picasso</i>
+<i>"I have no methods; all I do is accept people as they are." — Joan Rivers</i>
 <!--QUOTE_END-->
 </p>
 
