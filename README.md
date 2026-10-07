@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There are no constraints on the human mind, no walls around the human spirit, no barriers to our progress except those we ourselves erect." — Ronald Reagan</i>
+<i>"The consequences of today are determined by the actions of the past. To change your future, alter your decisions today." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
