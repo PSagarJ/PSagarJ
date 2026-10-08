@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"I have no methods; all I do is accept people as they are." — Joan Rivers</i>
+<i>"Fill your mind with various competing thoughts and decide which make sense." — Warren Buffett</i>
 <!--QUOTE_END-->
 </p>
 
