@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Fill your mind with various competing thoughts and decide which make sense." — Warren Buffett</i>
+<i>"A good teacher opens the door for you, but you must enter the room by yourself." — Zen Proverb</i>
 <!--QUOTE_END-->
 </p>
 
