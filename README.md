@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A good teacher opens the door for you, but you must enter the room by yourself." — Zen Proverb</i>
+<i>"It's not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins</i>
 <!--QUOTE_END-->
 </p>
 
