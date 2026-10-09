@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We must learn to live together as brothers or perish together as fools." — Martin Luther King, Jr.</i>
+<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners." — Nicolas Chamfort</i>
 <!--QUOTE_END-->
 </p>
 
