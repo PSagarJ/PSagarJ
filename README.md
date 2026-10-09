@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's not what we do once in a while that shapes our lives, but what we do consistently." — Tony Robbins</i>
+<i>"We must learn to live together as brothers or perish together as fools." — Martin Luther King, Jr.</i>
 <!--QUOTE_END-->
 </p>
 
