@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Society is composed of two great classes those who have more dinners than appetite, and those who have more appetite than dinners." — Nicolas Chamfort</i>
+<i>"You are never too old to become younger." — Mae West</i>
 <!--QUOTE_END-->
 </p>
 
