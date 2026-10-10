@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Ability is a poor man's wealth." — John Wooden</i>
+<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings." — Henry Ward Beecher</i>
 <!--QUOTE_END-->
 </p>
 
