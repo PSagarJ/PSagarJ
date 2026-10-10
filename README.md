@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The unthankful heart discovers no mercies; but the thankful heart will find, in every hour, some heavenly blessings." — Henry Ward Beecher</i>
+<i>"Men are disturbed not by things, but by the view which they take of them." — Epictetus</i>
 <!--QUOTE_END-->
 </p>
 
