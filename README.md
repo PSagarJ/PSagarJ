@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You are never too old to become younger." — Mae West</i>
+<i>"Ability is a poor man's wealth." — John Wooden</i>
 <!--QUOTE_END-->
 </p>
 
