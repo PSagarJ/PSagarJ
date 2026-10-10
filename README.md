@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Men are disturbed not by things, but by the view which they take of them." — Epictetus</i>
+<i>"Believe you can and you will be halfway there." — Lolly Daskal</i>
 <!--QUOTE_END-->
 </p>
 
