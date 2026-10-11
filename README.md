@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Your only obligation in any lifetime is to be true to yourself." — Richard Bach</i>
+<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful." — Sigmund Freud</i>
 <!--QUOTE_END-->
 </p>
 
