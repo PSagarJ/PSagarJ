@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"One day, in retrospect, the years of struggle will strike you as the most beautiful." — Sigmund Freud</i>
+<i>"Old age is like everything else. To make a success of it, you've got to start young." — Theodore Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
