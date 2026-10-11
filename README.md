@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Believe you can and you will be halfway there." — Lolly Daskal</i>
+<i>"Your only obligation in any lifetime is to be true to yourself." — Richard Bach</i>
 <!--QUOTE_END-->
 </p>
 
