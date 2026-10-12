@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is often safer to be in chains than to be free." — Franz Kafka</i>
+<i>"You get paid in direct proportion to the difficulty of problems you solve." — Elon Musk</i>
 <!--QUOTE_END-->
 </p>
 
