@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Old age is like everything else. To make a success of it, you've got to start young." — Theodore Roosevelt</i>
+<i>"It is often safer to be in chains than to be free." — Franz Kafka</i>
 <!--QUOTE_END-->
 </p>
 
