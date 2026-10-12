@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You get paid in direct proportion to the difficulty of problems you solve." — Elon Musk</i>
+<i>"The most important things are the hardest to say." — Stephen King</i>
 <!--QUOTE_END-->
 </p>
 
