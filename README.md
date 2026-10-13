@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The most important things are the hardest to say." — Stephen King</i>
+<i>"Someone is sitting in the shade today because someone planted a tree a long time ago." — Warren Buffett</i>
 <!--QUOTE_END-->
 </p>
 
