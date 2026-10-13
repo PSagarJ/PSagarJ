@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Someone is sitting in the shade today because someone planted a tree a long time ago." — Warren Buffett</i>
+<i>"To be fully alive is to feel that everything is possible." — Eric Hoffer</i>
 <!--QUOTE_END-->
 </p>
 
