@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"To be fully alive is to feel that everything is possible." — Eric Hoffer</i>
+<i>"It is better to change an opinion than to persist in a wrong one." — Socrates</i>
 <!--QUOTE_END-->
 </p>
 
