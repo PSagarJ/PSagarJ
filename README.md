@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"All life is an experiment. The more experiments you make, the better." — Ralph Waldo Emerson</i>
+<i>"Goals are the fuel in the furnace of achievement." — Brian Tracy</i>
 <!--QUOTE_END-->
 </p>
 
