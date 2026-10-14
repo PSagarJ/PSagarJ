@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Loss is nothing else but change and change is nature's delight." — Marcus Aurelius</i>
+<i>"Do it with passion, or not at all." — Rosa Nouchette Carey</i>
 <!--QUOTE_END-->
 </p>
 
