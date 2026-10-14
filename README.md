@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Goals are the fuel in the furnace of achievement." — Brian Tracy</i>
+<i>"Wealth consists not in having great possessions, but in having few wants." — Epictetus</i>
 <!--QUOTE_END-->
 </p>
 
