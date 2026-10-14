@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Wealth consists not in having great possessions, but in having few wants." — Epictetus</i>
+<i>"Loss is nothing else but change and change is nature's delight." — Marcus Aurelius</i>
 <!--QUOTE_END-->
 </p>
 
