@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is better to change an opinion than to persist in a wrong one." — Socrates</i>
+<i>"All life is an experiment. The more experiments you make, the better." — Ralph Waldo Emerson</i>
 <!--QUOTE_END-->
 </p>
 
