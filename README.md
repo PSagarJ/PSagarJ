@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We are always complaining that our days are few, and acting as though there would be no end of them." — Seneca</i>
+<i>"Troubles are often the tools by which God fashions us for better things." — Henry Ward Beecher</i>
 <!--QUOTE_END-->
 </p>
 
