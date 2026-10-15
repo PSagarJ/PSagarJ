@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do it with passion, or not at all." — Rosa Nouchette Carey</i>
+<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient." — Steve Maraboli</i>
 <!--QUOTE_END-->
 </p>
 
