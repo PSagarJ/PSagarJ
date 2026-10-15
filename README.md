@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Life doesn't get easier or more forgiving, we get stronger and more resilient." — Steve Maraboli</i>
+<i>"We are always complaining that our days are few, and acting as though there would be no end of them." — Seneca</i>
 <!--QUOTE_END-->
 </p>
 
