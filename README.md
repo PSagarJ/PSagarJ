@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Nothing is more real than nothing." — Samuel Beckett</i>
+<i>"In a world of distraction, focusing is a superpower." — Ryan Holiday</i>
 <!--QUOTE_END-->
 </p>
 
