@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you have to be in a soap opera try not to be cast in the worst role." — Judy Garland</i>
+<i>"Nothing is more real than nothing." — Samuel Beckett</i>
 <!--QUOTE_END-->
 </p>
 
