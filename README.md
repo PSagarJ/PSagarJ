@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"In a world of distraction, focusing is a superpower." — Ryan Holiday</i>
+<i>"Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy</i>
 <!--QUOTE_END-->
 </p>
 
