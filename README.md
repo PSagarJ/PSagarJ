@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A little progress each day adds up to big results." — Unknown</i>
+<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful." — Estee Lauder</i>
 <!--QUOTE_END-->
 </p>
 
