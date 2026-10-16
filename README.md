@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Successful people tend to become more successful because they are always thinking about their successes." — Brian Tracy</i>
+<i>"A little progress each day adds up to big results." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
