@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"What people say, what people do, and what they say they do are entirely different things." — Margaret Mead</i>
+<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner." — Sonia Ricotti</i>
 <!--QUOTE_END-->
 </p>
 
