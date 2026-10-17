@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Give credit where credit is due: simply said, if you want loyalty and best effort, you must be thoughtful." — Estee Lauder</i>
+<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." — Nikola Tesla</i>
 <!--QUOTE_END-->
 </p>
 
