@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The real meditation is how you live your life." — Jon Kabat-Zinn</i>
+<i>"We learn to walk by falling down. If we never fell down, we would never walk." — Robert Kiyosaki</i>
 <!--QUOTE_END-->
 </p>
 
