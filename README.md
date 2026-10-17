@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Just trust that everything is unfolding the way it is supposed to. Don't resist... Great things are waiting for you around the corner." — Sonia Ricotti</i>
+<i>"The real meditation is how you live your life." — Jon Kabat-Zinn</i>
 <!--QUOTE_END-->
 </p>
 
