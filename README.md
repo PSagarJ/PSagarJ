@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you want to find the secrets of the universe, think in terms of energy, frequency and vibration." — Nikola Tesla</i>
+<i>"What people say, what people do, and what they say they do are entirely different things." — Margaret Mead</i>
 <!--QUOTE_END-->
 </p>
 
