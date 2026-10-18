@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Believe nothing you hear, and only one half that you see." — Edgar Allan Poe</i>
+<i>"Fear can hold you prisoner. Hope can set you free." — Stephen King</i>
 <!--QUOTE_END-->
 </p>
 
