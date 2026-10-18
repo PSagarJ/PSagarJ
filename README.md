@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty." — Pema Chodron</i>
+<i>"Anger begins with folly, and ends with repentance." — Beverly Sills</i>
 <!--QUOTE_END-->
 </p>
 
