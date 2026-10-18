@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We learn to walk by falling down. If we never fell down, we would never walk." — Robert Kiyosaki</i>
+<i>"Hope and fear come from feeling that we lack something; they come from a sense of poverty." — Pema Chodron</i>
 <!--QUOTE_END-->
 </p>
 
