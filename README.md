@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Never settle for the crumbs of life." — Og Mandino</i>
+<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to." — Kahlil Gibran</i>
 <!--QUOTE_END-->
 </p>
 
