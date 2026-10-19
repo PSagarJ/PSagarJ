@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Fear can hold you prisoner. Hope can set you free." — Stephen King</i>
+<i>"Never settle for the crumbs of life." — Og Mandino</i>
 <!--QUOTE_END-->
 </p>
 
