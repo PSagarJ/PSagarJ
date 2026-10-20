@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Only the educated are free." — Epictetus</i>
+<i>"What we learn from history is that people don't learn from history." — Warren Buffett</i>
 <!--QUOTE_END-->
 </p>
 
