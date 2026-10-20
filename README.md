@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Your problem isn't the problem. Your reaction is the problem." — Unknown</i>
+<i>"Only the educated are free." — Epictetus</i>
 <!--QUOTE_END-->
 </p>
 
