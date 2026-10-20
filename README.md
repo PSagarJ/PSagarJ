@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"What we learn from history is that people don't learn from history." — Warren Buffett</i>
+<i>"Our joy does not have to be based on our circumstances." — Joyce Meyer</i>
 <!--QUOTE_END-->
 </p>
 
