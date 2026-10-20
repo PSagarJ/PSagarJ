@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"To understand the heart and mind of a person, look not at what he has already achieved, but at what he aspires to." — Kahlil Gibran</i>
+<i>"Your problem isn't the problem. Your reaction is the problem." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
