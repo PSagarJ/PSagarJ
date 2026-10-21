@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The more you are grateful for what you have the more you will have to be grateful for." — Zig Ziglar</i>
+<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything." — George Bernard Shaw</i>
 <!--QUOTE_END-->
 </p>
 
