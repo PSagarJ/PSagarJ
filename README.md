@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Our joy does not have to be based on our circumstances." — Joyce Meyer</i>
+<i>"Do not save what is left after spending, but spend what is left after saving." — Warren Buffett</i>
 <!--QUOTE_END-->
 </p>
 
