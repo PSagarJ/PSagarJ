@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Progress is impossible without change, and those who cannot change their minds cannot change anything." — George Bernard Shaw</i>
+<i>"What you do today can improve all your tomorrows." — Ralph Marston</i>
 <!--QUOTE_END-->
 </p>
 
