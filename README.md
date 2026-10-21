@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do not save what is left after spending, but spend what is left after saving." — Warren Buffett</i>
+<i>"The more you are grateful for what you have the more you will have to be grateful for." — Zig Ziglar</i>
 <!--QUOTE_END-->
 </p>
 
