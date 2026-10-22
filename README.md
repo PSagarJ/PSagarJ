@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them." — Epictetus</i>
+<i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward." — Unknown</i>
 <!--QUOTE_END-->
 </p>
 
