@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Quality is not an act, it is a habit." — Aristotle</i>
+<i>"It is the nature of the wise to resist pleasures, but the foolish to be a slave to them." — Epictetus</i>
 <!--QUOTE_END-->
 </p>
 
