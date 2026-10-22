@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Getting over a painful experience is much like crossing monkey bars. You have to let go at some point in order to move forward." — Unknown</i>
+<i>"The ones who are crazy enough to think they can change the world, are the ones that do." — Steve Jobs</i>
 <!--QUOTE_END-->
 </p>
 
