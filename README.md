@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"What you do today can improve all your tomorrows." — Ralph Marston</i>
+<i>"Quality is not an act, it is a habit." — Aristotle</i>
 <!--QUOTE_END-->
 </p>
 
