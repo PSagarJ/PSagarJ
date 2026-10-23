@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The ones who are crazy enough to think they can change the world, are the ones that do." — Steve Jobs</i>
+<i>"I will not walk backward in life." — J.R.R. Tolkien</i>
 <!--QUOTE_END-->
 </p>
 
