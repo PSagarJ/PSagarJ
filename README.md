@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is better to point out your own mistakes than have somebody else do it." — Warren Buffett</i>
+<i>"Your only limitations are those you set up in your mind or permit others to set up for you." — Og Mandino</i>
 <!--QUOTE_END-->
 </p>
 
