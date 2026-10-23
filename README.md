@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The wise learn many things from their enemies." — Aristophanes</i>
+<i>"It is better to point out your own mistakes than have somebody else do it." — Warren Buffett</i>
 <!--QUOTE_END-->
 </p>
 
