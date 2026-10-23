@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"I will not walk backward in life." — J.R.R. Tolkien</i>
+<i>"The wise learn many things from their enemies." — Aristophanes</i>
 <!--QUOTE_END-->
 </p>
 
