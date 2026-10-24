@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Your only limitations are those you set up in your mind or permit others to set up for you." — Og Mandino</i>
+<i>"A mountain never yields to the wind no matter how strong it is." — Zen Proverb</i>
 <!--QUOTE_END-->
 </p>
 
