@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Where does a thought go when it's forgotten?" — Sigmund Freud</i>
+<i>"When you know what you want, and want it bad enough, you will find a way to get it." — Jim Rohn</i>
 <!--QUOTE_END-->
 </p>
 
