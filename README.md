@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A mountain never yields to the wind no matter how strong it is." — Zen Proverb</i>
+<i>"Where does a thought go when it's forgotten?" — Sigmund Freud</i>
 <!--QUOTE_END-->
 </p>
 
