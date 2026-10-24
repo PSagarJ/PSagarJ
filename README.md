@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"When you know what you want, and want it bad enough, you will find a way to get it." — Jim Rohn</i>
+<i>"If you want to know what God thinks about money just look at the people He gives it to." — Alexander Pope</i>
 <!--QUOTE_END-->
 </p>
 
