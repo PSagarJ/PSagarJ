@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you want to know what God thinks about money just look at the people He gives it to." — Alexander Pope</i>
+<i>"Adventure is worthwhile in itself." — Amelia Earhart</i>
 <!--QUOTE_END-->
 </p>
 
