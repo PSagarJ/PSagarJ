@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"In order to control myself I must first accept myself by going with and not against my nature." — Bruce Lee</i>
+<i>"Your mind will make you rich or poor, depending on the use you put to it." — Brian Tracy</i>
 <!--QUOTE_END-->
 </p>
 
