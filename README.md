@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle." — Albert Einstein</i>
+<i>"In order to control myself I must first accept myself by going with and not against my nature." — Bruce Lee</i>
 <!--QUOTE_END-->
 </p>
 
