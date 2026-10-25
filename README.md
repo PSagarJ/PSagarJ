@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Adventure is worthwhile in itself." — Amelia Earhart</i>
+<i>"Awaken. Take heed, do not squander your life." — Dogen</i>
 <!--QUOTE_END-->
 </p>
 
