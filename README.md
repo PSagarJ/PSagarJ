@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"They who have conquered doubt and fear have conquered failure." — James Allen</i>
+<i>"There are only two ways to live your life. One is as if nothing is a miracle. The other is as if everything is a miracle." — Albert Einstein</i>
 <!--QUOTE_END-->
 </p>
 
