@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Awaken. Take heed, do not squander your life." — Dogen</i>
+<i>"They who have conquered doubt and fear have conquered failure." — James Allen</i>
 <!--QUOTE_END-->
 </p>
 
