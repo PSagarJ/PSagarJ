@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Your mind will make you rich or poor, depending on the use you put to it." — Brian Tracy</i>
+<i>"The time is now, the place is here. Stay in the present." — Dan Millman</i>
 <!--QUOTE_END-->
 </p>
 
