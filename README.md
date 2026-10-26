@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The time is now, the place is here. Stay in the present." — Dan Millman</i>
+<i>"Give more than you think you can, trusting that you are richer than you think." — Jon Kabat-Zinn</i>
 <!--QUOTE_END-->
 </p>
 
