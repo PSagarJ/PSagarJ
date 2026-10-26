@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Give more than you think you can, trusting that you are richer than you think." — Jon Kabat-Zinn</i>
+<i>"Failure comes from ego, greed, envy, fear, and imitation." — Warren Buffett</i>
 <!--QUOTE_END-->
 </p>
 
