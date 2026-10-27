@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment." — Dan Millman</i>
+<i>"Enthusiasm is a vital element toward the individual success of every man or woman." — Conrad Hilton</i>
 <!--QUOTE_END-->
 </p>
 
