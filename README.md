@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Failure comes from ego, greed, envy, fear, and imitation." — Warren Buffett</i>
+<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." — Eckhart Tolle</i>
 <!--QUOTE_END-->
 </p>
 
