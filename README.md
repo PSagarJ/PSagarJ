@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Enthusiasm is a vital element toward the individual success of every man or woman." — Conrad Hilton</i>
+<i>"If you are ever the smartest person in the room, you are in the wrong room." — C. Sean McGee</i>
 <!--QUOTE_END-->
 </p>
 
