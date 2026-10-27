@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You find peace not by rearranging the circumstances of your life, but by realizing who you are at the deepest level." — Eckhart Tolle</i>
+<i>"Be gentle with yourself. Think less and feel more. Be as happy as you can. You only have this moment." — Dan Millman</i>
 <!--QUOTE_END-->
 </p>
 
