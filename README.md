@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The obstacle in the path becomes the path." — Ryan Holiday</i>
+<i>"Fools read fast. Geniuses reread." — Maxime Lagace</i>
 <!--QUOTE_END-->
 </p>
 
