@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you are ever the smartest person in the room, you are in the wrong room." — C. Sean McGee</i>
+<i>"The obstacle in the path becomes the path." — Ryan Holiday</i>
 <!--QUOTE_END-->
 </p>
 
