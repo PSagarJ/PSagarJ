@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Fools read fast. Geniuses reread." — Maxime Lagace</i>
+<i>"Most people dabble their way through life, never deciding to master anything in particular." — Tony Robbins</i>
 <!--QUOTE_END-->
 </p>
 
