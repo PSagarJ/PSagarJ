@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Words without actions are the assassins of idealism." — Herbert Hoover</i>
+<i>"Work is always an antidote to depression." — Eleanor Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
