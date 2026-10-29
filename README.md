@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Work is always an antidote to depression." — Eleanor Roosevelt</i>
+<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." — Norman Vincent Peale</i>
 <!--QUOTE_END-->
 </p>
 
