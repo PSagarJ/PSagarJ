@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Most people dabble their way through life, never deciding to master anything in particular." — Tony Robbins</i>
+<i>"Words without actions are the assassins of idealism." — Herbert Hoover</i>
 <!--QUOTE_END-->
 </p>
 
