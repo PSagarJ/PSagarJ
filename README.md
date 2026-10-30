@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The most wasted day of all is that on which we have not laughed." — Nicolas Chamfort</i>
+<i>"Art, like morality, consists of drawing the line somewhere." — Gilbert Chesterton</i>
 <!--QUOTE_END-->
 </p>
 
