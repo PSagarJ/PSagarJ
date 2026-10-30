@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean." — Paramahansa Yogananda</i>
+<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given." — Steve Harvey</i>
 <!--QUOTE_END-->
 </p>
 
