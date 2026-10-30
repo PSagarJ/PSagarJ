@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Art, like morality, consists of drawing the line somewhere." — Gilbert Chesterton</i>
+<i>"Having lots of money while not having inner peace is like dying of thirst while bathing in the ocean." — Paramahansa Yogananda</i>
 <!--QUOTE_END-->
 </p>
 
