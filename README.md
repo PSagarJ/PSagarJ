@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do not be awe struck by other people and try to copy them. Nobody can be you as efficiently as you can." — Norman Vincent Peale</i>
+<i>"The most wasted day of all is that on which we have not laughed." — Nicolas Chamfort</i>
 <!--QUOTE_END-->
 </p>
 
