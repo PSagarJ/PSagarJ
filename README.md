@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do not dwell in the past, do not dream of the future, concentrate the mind on the present moment." — Buddha</i>
+<i>"To himself everyone is immortal; he may know that he is going to die, but he can never know he is dead." — Samuel Butler</i>
 <!--QUOTE_END-->
 </p>
 
