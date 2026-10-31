@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Excuses are the lies you convince yourself are true to avoid proving you are worthy of the gift you were given." — Steve Harvey</i>
+<i>"If ever you feel like an animal among men, be a lion." — Criss Jami</i>
 <!--QUOTE_END-->
 </p>
 
