@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Only in the agony of parting do we look into the depths of love." — George Eliot</i>
+<i>"All animals except man know that the principal business of life is to enjoy it." — Samuel Butler</i>
 <!--QUOTE_END-->
 </p>
 
