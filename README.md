@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The best mind-altering drug is the truth." — Lily Tomlin</i>
+<i>"Only in the agony of parting do we look into the depths of love." — George Eliot</i>
 <!--QUOTE_END-->
 </p>
 
