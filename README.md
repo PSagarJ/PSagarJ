@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Your dream has to be bigger than your fear." — Steve Harvey</i>
+<i>"The best mind-altering drug is the truth." — Lily Tomlin</i>
 <!--QUOTE_END-->
 </p>
 
