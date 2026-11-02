@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe." — Nikola Tesla</i>
+<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities." — Josh Waitzkin</i>
 <!--QUOTE_END-->
 </p>
 
