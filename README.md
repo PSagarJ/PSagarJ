@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"All animals except man know that the principal business of life is to enjoy it." — Samuel Butler</i>
+<i>"The fastest way to change is to laugh at your own folly." — Spencer Johnson</i>
 <!--QUOTE_END-->
 </p>
 
