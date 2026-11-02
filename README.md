@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The fastest way to change is to laugh at your own folly." — Spencer Johnson</i>
+<i>"If you only knew the magnificence of the 3, 6, and 9, then you would have a key to the universe." — Nikola Tesla</i>
 <!--QUOTE_END-->
 </p>
 
