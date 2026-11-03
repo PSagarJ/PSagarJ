@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We learn by pushing ourselves and finding what really lies at the outer reaches of our abilities." — Josh Waitzkin</i>
+<i>"You change the world by being yourself." — Yoko Ono</i>
 <!--QUOTE_END-->
 </p>
 
