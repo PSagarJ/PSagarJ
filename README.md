@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"You change the world by being yourself." — Yoko Ono</i>
+<i>"Passion is born deaf and dumb." — Honore de Balzac</i>
 <!--QUOTE_END-->
 </p>
 
