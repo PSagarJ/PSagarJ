@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The constant assertion of belief is an indication of fear." — Jiddu Krishnamurti</i>
+<i>"Misfortune shows those who are not really friends." — Aristotle</i>
 <!--QUOTE_END-->
 </p>
 
