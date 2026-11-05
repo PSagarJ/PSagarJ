@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Be grateful for what you have now, and nothing should be taken for granted." — Roy T. Bennett</i>
+<i>"Love is not about possession. Love is about appreciation." — Osho</i>
 <!--QUOTE_END-->
 </p>
 
