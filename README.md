@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Misfortune shows those who are not really friends." — Aristotle</i>
+<i>"Be grateful for what you have now, and nothing should be taken for granted." — Roy T. Bennett</i>
 <!--QUOTE_END-->
 </p>
 
