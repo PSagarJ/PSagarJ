@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Love is not about possession. Love is about appreciation." — Osho</i>
+<i>"Pleasure is always derived from something outside you, whereas joy arises from within." — Eckhart Tolle</i>
 <!--QUOTE_END-->
 </p>
 
