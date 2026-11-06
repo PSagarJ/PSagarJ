@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Work is always an antidote to depression." — Eleanor Roosevelt</i>
+<i>"The older you get the stronger the wind gets - and it's always in your face." — Pablo Picasso</i>
 <!--QUOTE_END-->
 </p>
 
