@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Pleasure is always derived from something outside you, whereas joy arises from within." — Eckhart Tolle</i>
+<i>"A crisis is an opportunity riding the dangerous wind." — Chinese Proverb</i>
 <!--QUOTE_END-->
 </p>
 
