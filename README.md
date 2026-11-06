@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"A crisis is an opportunity riding the dangerous wind." — Chinese Proverb</i>
+<i>"Work is always an antidote to depression." — Eleanor Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
