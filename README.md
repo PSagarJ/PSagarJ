@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The older you get the stronger the wind gets - and it's always in your face." — Pablo Picasso</i>
+<i>"Never let your memories be greater than your dreams." — Doug Ivester</i>
 <!--QUOTE_END-->
 </p>
 
