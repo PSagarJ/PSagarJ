@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity." — Charles Spurgeon</i>
+<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson</i>
 <!--QUOTE_END-->
 </p>
 
