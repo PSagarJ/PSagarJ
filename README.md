@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Never let your memories be greater than your dreams." — Doug Ivester</i>
+<i>"Hope itself is like a star- not to be seen in the sunshine of prosperity, and only to be discovered in the night of adversity." — Charles Spurgeon</i>
 <!--QUOTE_END-->
 </p>
 
