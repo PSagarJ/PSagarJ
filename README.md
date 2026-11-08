@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"What lies behind us and what lies before us are tiny matters compared to what lies within us." — Ralph Waldo Emerson</i>
+<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting." — Bhagavad Gita</i>
 <!--QUOTE_END-->
 </p>
 
