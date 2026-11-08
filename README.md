@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Truth is exact correspondence with reality." — Paramahansa Yogananda</i>
+<i>"We would accomplish many more things if we did not think of them as impossible." — Vince Lombardi</i>
 <!--QUOTE_END-->
 </p>
 
