@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The spirit is beyond destruction. No one can bring an end to spirit which is everlasting." — Bhagavad Gita</i>
+<i>"Truth is exact correspondence with reality." — Paramahansa Yogananda</i>
 <!--QUOTE_END-->
 </p>
 
