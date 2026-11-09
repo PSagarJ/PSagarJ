@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"We would accomplish many more things if we did not think of them as impossible." — Vince Lombardi</i>
+<i>"Judge a man by his questions rather than his answers." — Voltaire</i>
 <!--QUOTE_END-->
 </p>
 
