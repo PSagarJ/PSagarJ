@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Discontent is the first necessity of progress." — Thomas Edison</i>
+<i>"I am who I am today because of the choices I made yesterday." — Eleanor Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
