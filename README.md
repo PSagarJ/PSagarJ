@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Judge a man by his questions rather than his answers." — Voltaire</i>
+<i>"Discontent is the first necessity of progress." — Thomas Edison</i>
 <!--QUOTE_END-->
 </p>
 
