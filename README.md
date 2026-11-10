@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"I am who I am today because of the choices I made yesterday." — Eleanor Roosevelt</i>
+<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." — Roy T. Bennett</i>
 <!--QUOTE_END-->
 </p>
 
