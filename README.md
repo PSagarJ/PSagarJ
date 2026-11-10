@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There is only one thing in the world worse than being talked about, and that is not being talked about." — Oscar Wilde</i>
+<i>"Those who seek the easy way do not seek the true way." — Dogen</i>
 <!--QUOTE_END-->
 </p>
 
