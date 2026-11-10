@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Don't be pushed around by the fears in your mind. Be led by the dreams in your heart." — Roy T. Bennett</i>
+<i>"There is only one thing in the world worse than being talked about, and that is not being talked about." — Oscar Wilde</i>
 <!--QUOTE_END-->
 </p>
 
