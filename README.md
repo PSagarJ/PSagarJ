@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience." — Eleanor Roosevelt</i>
+<i>"Sometimes it is more important to discover what one cannot do, than what one can do." — Lin Yutang</i>
 <!--QUOTE_END-->
 </p>
 
