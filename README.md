@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Those who seek the easy way do not seek the true way." — Dogen</i>
+<i>"The purpose of life is to live it, to taste experience to the utmost, to reach out eagerly and without fear for newer and richer experience." — Eleanor Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
