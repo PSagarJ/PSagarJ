@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It is better to light a single candle than to curse the darkness." — Eleanor Roosevelt</i>
+<i>"Everyone sees what you appear to be, few experience what you really are." — Niccolo Machiavelli</i>
 <!--QUOTE_END-->
 </p>
 
