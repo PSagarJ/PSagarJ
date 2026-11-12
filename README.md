@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Everyone sees what you appear to be, few experience what you really are." — Niccolo Machiavelli</i>
+<i>"Correct what you can. Learn from what you can't." — Toni Morrison</i>
 <!--QUOTE_END-->
 </p>
 
