@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"To lead the people, walk behind them." — Lao Tzu</i>
+<i>"It is better to light a single candle than to curse the darkness." — Eleanor Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
