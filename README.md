@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The only way out is through." — Robert Frost</i>
+<i>"To know your Enemy, you must become your Enemy." — Sun Tzu</i>
 <!--QUOTE_END-->
 </p>
 
