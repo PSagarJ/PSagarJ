@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Correct what you can. Learn from what you can't." — Toni Morrison</i>
+<i>"Life is love and love is life." — Elvis Presley</i>
 <!--QUOTE_END-->
 </p>
 
