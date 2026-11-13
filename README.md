@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Life is love and love is life." — Elvis Presley</i>
+<i>"The only way out is through." — Robert Frost</i>
 <!--QUOTE_END-->
 </p>
 
