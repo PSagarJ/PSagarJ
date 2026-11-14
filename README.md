@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them." — Denis Waitley</i>
+<i>"Forget safety. Live where you fear to live." — Rumi</i>
 <!--QUOTE_END-->
 </p>
 
