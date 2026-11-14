@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Forget safety. Live where you fear to live." — Rumi</i>
+<i>"The only way to do great work is to love what you do." — Colin R. Davis</i>
 <!--QUOTE_END-->
 </p>
 
