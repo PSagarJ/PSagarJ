@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"To know your Enemy, you must become your Enemy." — Sun Tzu</i>
+<i>"There are two primary choices in life: to accept conditions as they exist, or accept the responsibility for changing them." — Denis Waitley</i>
 <!--QUOTE_END-->
 </p>
 
