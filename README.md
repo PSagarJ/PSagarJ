@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul." — Marcus Aurelius</i>
+<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality." — Shunryu Suzuki</i>
 <!--QUOTE_END-->
 </p>
 
