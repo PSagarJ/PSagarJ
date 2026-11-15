@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The only way to do great work is to love what you do." — Colin R. Davis</i>
+<i>"There is nothing quite so tragic as a young cynic." — Maya Angelou</i>
 <!--QUOTE_END-->
 </p>
 
