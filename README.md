@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There is nothing quite so tragic as a young cynic." — Maya Angelou</i>
+<i>"By going within. Nowhere you can go is more peaceful - more free of interruptions - than your own soul." — Marcus Aurelius</i>
 <!--QUOTE_END-->
 </p>
 
