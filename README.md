@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Go confidently in the direction of your dreams. Live the life you've imagined." — Arnold Schwarzenegger</i>
+<i>"The fewer the words, the better the prayer." — Martin Luther</i>
 <!--QUOTE_END-->
 </p>
 
