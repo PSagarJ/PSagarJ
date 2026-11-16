@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Nothing we see or hear is perfect. But right there in the imperfection is perfect reality." — Shunryu Suzuki</i>
+<i>"Go confidently in the direction of your dreams. Live the life you've imagined." — Arnold Schwarzenegger</i>
 <!--QUOTE_END-->
 </p>
 
