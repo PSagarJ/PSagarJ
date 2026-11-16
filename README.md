@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The fewer the words, the better the prayer." — Martin Luther</i>
+<i>"Loyalty and friendship are the most precious possessions a man can have." — Herbert Hoover</i>
 <!--QUOTE_END-->
 </p>
 
