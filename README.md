@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Do Something. If it works, do more of it. If it doesn't, do something else." — Franklin D. Roosevelt</i>
+<i>"Death and life have their determined appointments; riches and honors depend upon heaven." — Confucius</i>
 <!--QUOTE_END-->
 </p>
 
