@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Loyalty and friendship are the most precious possessions a man can have." — Herbert Hoover</i>
+<i>"Do Something. If it works, do more of it. If it doesn't, do something else." — Franklin D. Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
