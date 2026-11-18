@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Open your mind before your mouth." — Aristophanes</i>
+<i>"There is a difference between giving directions and giving direction." — Simon Sinek</i>
 <!--QUOTE_END-->
 </p>
 
