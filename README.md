@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Death and life have their determined appointments; riches and honors depend upon heaven." — Confucius</i>
+<i>"Open your mind before your mouth." — Aristophanes</i>
 <!--QUOTE_END-->
 </p>
 
