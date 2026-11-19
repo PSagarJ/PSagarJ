@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"There is a difference between giving directions and giving direction." — Simon Sinek</i>
+<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise." — Paramahansa Yogananda</i>
 <!--QUOTE_END-->
 </p>
 
