@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"By the practice of meditation, you will find that you are carrying within your heart a portable paradise." — Paramahansa Yogananda</i>
+<i>"Every day passes whether you participate or not." — Ming-Dao Deng</i>
 <!--QUOTE_END-->
 </p>
 
