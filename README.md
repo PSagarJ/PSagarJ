@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The time is always right to do what is right." — Martin Luther King, Jr.</i>
+<i>"Being wrong brings the opportunity for growth." — Mark Manson</i>
 <!--QUOTE_END-->
 </p>
 
