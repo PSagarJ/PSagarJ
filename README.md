@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Every day passes whether you participate or not." — Ming-Dao Deng</i>
+<i>"The time is always right to do what is right." — Martin Luther King, Jr.</i>
 <!--QUOTE_END-->
 </p>
 
