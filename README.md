@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Being wrong brings the opportunity for growth." — Mark Manson</i>
+<i>"Acknowledging the good that you already have in your life is the foundation for all abundance." — Eckhart Tolle</i>
 <!--QUOTE_END-->
 </p>
 
