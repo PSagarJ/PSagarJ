@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The most difficult times for many of us are the ones we give ourselves." — Pema Chodron</i>
+<i>"Do one thing every day that scares you." — Eleanor Roosevelt</i>
 <!--QUOTE_END-->
 </p>
 
