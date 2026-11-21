@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Acknowledging the good that you already have in your life is the foundation for all abundance." — Eckhart Tolle</i>
+<i>"The most difficult times for many of us are the ones we give ourselves." — Pema Chodron</i>
 <!--QUOTE_END-->
 </p>
 
