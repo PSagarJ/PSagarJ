@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"It's not whether you get knocked down, its whether you get back up." — Vince Lombardi</i>
+<i>"True wisdom comes to each of us when we realize how little we understand about life, ourselves, and the world around us." — Socrates</i>
 <!--QUOTE_END-->
 </p>
 
