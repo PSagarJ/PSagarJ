@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The man who removes a mountain begins by carrying away small stones." — William Faulkner</i>
+<i>"Whenever you find yourself on the side of the majority, it is time to reform." — Mark Twain</i>
 <!--QUOTE_END-->
 </p>
 
