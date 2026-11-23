@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Most great people have achieved their greatest success just one step beyond their greatest failure." — Napoleon Hill</i>
+<i>"The man who removes a mountain begins by carrying away small stones." — William Faulkner</i>
 <!--QUOTE_END-->
 </p>
 
