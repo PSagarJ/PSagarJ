@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over." — Joan Rivers</i>
+<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals." — Estee Lauder</i>
 <!--QUOTE_END-->
 </p>
 
