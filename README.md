@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Whenever you find yourself on the side of the majority, it is time to reform." — Mark Twain</i>
+<i>"Don't waste your energy on being angry at something that somebody did six months ago or a year ago. It's over." — Joan Rivers</i>
 <!--QUOTE_END-->
 </p>
 
