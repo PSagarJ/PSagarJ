@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Behind every beautiful thing, there's some kind of pain." — Bob Dylan</i>
+<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't." — Steve Maraboli</i>
 <!--QUOTE_END-->
 </p>
 
