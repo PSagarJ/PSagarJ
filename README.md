@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Projecting your mind into a successful situation is the most powerful means to achieve goals." — Estee Lauder</i>
+<i>"Behind every beautiful thing, there's some kind of pain." — Bob Dylan</i>
 <!--QUOTE_END-->
 </p>
 
