@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"The world doesn't always give you want, but it often gives you what you need." — Naval Ravikant</i>
+<i>"Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love." — Morihei Ueshiba</i>
 <!--QUOTE_END-->
 </p>
 
