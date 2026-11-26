@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Incredible change happens in your life when you decide to take control of what you do have power over instead of craving control over what you don't." — Steve Maraboli</i>
+<i>"Those who realize their folly are not true fools." — Zhuangzi</i>
 <!--QUOTE_END-->
 </p>
 
