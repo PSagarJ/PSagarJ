@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Those who realize their folly are not true fools." — Zhuangzi</i>
+<i>"The world doesn't always give you want, but it often gives you what you need." — Naval Ravikant</i>
 <!--QUOTE_END-->
 </p>
 
