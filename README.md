@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"If we are not able to smile, then the world will not have peace." — Thich Nhat Hanh</i>
+<i>"Never say never, because limits, like fears, are often just an illusion." — Michael Jordan</i>
 <!--QUOTE_END-->
 </p>
 
