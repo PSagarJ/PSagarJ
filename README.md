@@ -7,7 +7,7 @@
 
 <p align="center">
 <!--QUOTE_START-->
-<i>"Loyalty and devotion lead to bravery. Bravery leads to the spirit of self-sacrifice. The spirit of self-sacrifice creates trust in the power of love." — Morihei Ueshiba</i>
+<i>"If we are not able to smile, then the world will not have peace." — Thich Nhat Hanh</i>
 <!--QUOTE_END-->
 </p>
 
